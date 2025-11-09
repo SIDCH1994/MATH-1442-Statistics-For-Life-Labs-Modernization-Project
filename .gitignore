@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+.DS_Store
+Thumbs.db
+/site/
+.ipynb_checkpoints/
