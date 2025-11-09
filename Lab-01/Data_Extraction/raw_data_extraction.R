@@ -1,0 +1,5 @@
+install.packages("NHANES")
+library(NHANES)
+data(NHANES)
+#View(NHANES)
+write.csv(x = NHANES, file = "NHANES_Raw.csv", row.names = FALSE)
