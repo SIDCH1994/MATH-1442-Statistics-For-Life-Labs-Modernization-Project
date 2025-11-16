@@ -1,0 +1,67 @@
+---
+title: "R_Code_used_in_Manual"
+author: "Siddhartha Chilukuri"
+date: "2025-11-16"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+library(readr)
+data <- read_csv("Lab-01/Data_Extraction/NHANES.csv")
+print(head(data))
+```
+
+```{r}
+# Simple Random Sample
+library(dplyr)    # library for keeping the code short and easy to read
+set.seed(1442)    # makes the result reproducible
+SRS_data <- data %>% slice_sample(n = 100)   # n --> sample size
+print(SRS_data)   # used for printing the output
+```
+
+
+```{r}
+library(dplyr)
+set.seed(1442)
+Strat_data <- data %>% group_by(GENDER) %>%   # stratification variable
+              slice_sample(n = 200) %>%       # n --> observations per stratum
+              ungroup()
+print(Strat_data[,1:10], n = nrow(Strat_data))  # used for printing the output
+
+```
+
+
+```{r}
+library(dplyr)
+set.seed(1442)
+n_target <- 120                   # sample size
+N        <- nrow(data)            # population size
+k        <- floor(N / n_target)   # sampling interval
+# random start between 1 and k
+r        <- sample(1:k, 1)
+Sys_data <- data %>% slice(seq(from = r, to = N, by = k))
+print(Sys_data)                   # used for printing the output
+```
+
+
+```{r}
+library(dplyr)
+set.seed(1442)
+# picking clusters
+clusters_chosen <- data %>% distinct(WORK) %>%   # cluster group
+                   slice_sample(n = 2) %>%       # n --> number of clusters
+                   pull(WORK)
+# keeping every observation in those clusters
+Cluster_data <- data %>% filter(WORK %in% clusters_chosen)
+print(Cluster_data)
+```
