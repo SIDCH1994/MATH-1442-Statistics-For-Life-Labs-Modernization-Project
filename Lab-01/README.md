@@ -175,13 +175,15 @@ This lab aligns with the GAISE 2016 recommendations by:
 
 This repository includes:
 
-- ✔️ Data extraction (R) and data cleaning (Python)
+- ✔️ Data extraction (R)
+
+- ✔️ Data cleaning (Python) 
 
 - ✔️ R-Code used in the Lab Manual
 
 - ✔️ Cleaned Dataset
 
-Restricted instructional materials (manual text, screenshots, grading rubrics) are maintained in a private repository.
+Restricted instructional materials (manual text, screenshots, and grading rubrics) are maintained in a private repository.
 
 
 ## 📚 References
@@ -199,31 +201,14 @@ https://wwwn.cdc.gov/nchs/nhanes/default.aspx
 ### Authors: 
 <br>
 
-**Siddhartha Chilukuri**
-
-Graduate Research Assistant
-
-Department of Mathematics & Statistics
-
-Texas A&M University – Corpus Christi
+1. **Siddhartha Chilukuri** - Graduate Research Assistant - Department of Mathematics & Statistics - Texas A&M University – Corpus Christi
 <br><br>
 
-**Haekyoung Choi**
-
-Senior Instructor
-
-Department of Mathematics & Statistics
-
-Texas A&M University – Corpus Christi
+2. **Haekyoung Choi** - Senior Instructor - Department of Mathematics & Statistics - Texas A&M University – Corpus Christi
 <br><br>
 
-**Dr. Jose Guardiola**
-
-Professor
-
-Department of Mathematics & Statistics
-
-Texas A&M University – Corpus Christi
+3. **Dr. Jose Guardiola** - Professor - Department of Mathematics & Statistics - Texas A&M University – Corpus Christi
 <br><br>
 
-This project is funded by the Department of Mathematics & Statistics, College of Science, Texas A&M University - Corpus Christi, via a Department of Education Grant.
+The authors contributed to the design and development of this project. This project was funded and supported by the Department of Mathematics & Statistics at Texas A&M University–Corpus Christi. All instructional materials and lab manuals associated with this project are the intellectual property of the Department. Public materials in this repository are shared for demonstration and educational purposes only.
+
