@@ -1,0 +1,5 @@
+install.packages("Lock5Data")
+library(Lock5Data)
+data(PASeniors)
+#View(PASeniors)
+write.csv(x = PASeniors, file = "PAHSSnr.csv", row.names = FALSE)
