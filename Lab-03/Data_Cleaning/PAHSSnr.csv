@@ -1,0 +1,338 @@
+YEAR,GENDER,AGE,HAND,HEIGHT,FOOT,ARM_SPAN,LANGUAGES,GET_TO_SCHOOL,TRAVEL_TIME,REACTION_TIME,MEMORY_SCORE,BIRTH_MONTH,SEASON,ALLERGIES,VEGETARIAN,FAV_FOOD,DRINK,FAV_SUB,SLEEP_TIME,OCCUPANTS,COMMUNICATION,TXT_SENT,HANG_HRS,HW_HRS,SPORT_HRS,VG_HRS,COMP_HRS,TV_HRS,WORK_HRS
+2013,Female,17,Right,165.0,25.0,161.0,1.0,Car,7.0,0.388,50.0,July,Summer,Yes,No,Poultry,Water,Science,8.0,4.0,Text,500.0,12.0,0.25,6.0,0.0,2.0,2.0,8.0
+2015,Female,17,Right,157.0,22.0,152.0,1.0,Car,5.0,0.399,44.0,August,Fall,No,No,Meat,Water,Social studies,6.0,4.0,Text,30.0,2.0,21.0,2.0,0.0,15.0,3.0,0.0
+2012,Male,18,Right,177.0,30.0,180.0,1.0,Car,2.0,0.265,51.0,November,Summer,No,No,Meat,Water,Mathematics and statistics,8.0,5.0,Phone,50.0,35.0,0.0,5.0,0.0,5.0,10.0,25.0
+2015,Female,17,Right,170.0,26.0,170.0,1.0,Car,7.0,0.628,49.0,December,Winter,No,No,Pizza/Pasta,Juice,Art,7.0,5.0,Text,15.0,5.0,5.0,5.0,1.0,2.0,4.0,0.0
+2010,Female,17,Right,153.0,22.0,154.0,3.0,Car,6.0,0.528,31.0,September,Fall,No,No,Pizza/Pasta,Juice,Social studies,7.5,4.0,In person,0.0,7.0,3.0,6.0,0.0,30.0,2.0,0.0
+2016,Male,17,Right,183.0,27.0,185.0,2.0,Bus,13.0,0.315,44.0,August,Fall,No,No,Desserts,Water,Computers and technology,6.0,4.0,In person,0.0,1.0,14.0,6.0,4.0,21.0,0.0,0.0
+2010,Male,17,Right,195.0,27.0,194.0,2.0,Bus,5.0,0.477,46.0,August,Summer,No,No,Desserts,Coffee,Languages,7.0,4.0,In person,3.0,30.0,30.0,5.0,0.0,20.0,20.0,7.0
+2017,Female,17,Right,162.5,25.0,172.0,2.0,Car,12.0,0.402,33.0,July,Fall,Yes,No,Other,Water,English,7.0,5.0,In person,14.0,13.0,10.0,3.5,0.0,45.0,15.0,0.0
+2018,Male,18,Right,173.0,22.0,167.0,1.0,Bus,60.0,0.904,46.0,January,Summer,Yes,No,Seafood,Water,Science,7.0,5.0,Text,4.0,25.0,5.0,10.0,5.0,10.0,5.0,0.0
+2012,Male,18,Right,180.0,25.0,172.0,1.0,Car,4.0,0.265,38.0,August,Summer,No,No,Meat,Water,Physical education,6.0,6.0,Text,75.0,12.0,0.0,10.0,15.0,20.0,20.0,22.0
+2014,Male,18,Right,186.0,27.0,172.0,1.0,Car,10.0,0.265,36.0,November,Winter,No,No,Meat,Juice,History,6.0,5.0,Text,100.0,24.0,2.0,4.0,0.0,50.0,50.0,20.0
+2014,Female,17,Right,170.0,24.4,166.0,1.0,Car,5.0,0.3,46.0,August,Summer,Yes,No,Pizza/Pasta,Water,Mathematics and statistics,8.0,3.0,Text,61.0,10.0,10.0,21.0,0.0,10.0,10.0,6.0
+2015,Female,17,Right,172.0,23.0,168.0,1.0,Car,12.0,0.476,35.0,July,Winter,No,No,Desserts,Milk,Mathematics and statistics,7.5,5.0,Text,100.0,6.0,3.0,4.0,0.0,8.0,15.0,2.0
+2017,Male,17,Right,168.0,24.0,170.0,1.0,Bus,7.0,0.485,59.0,April,Spring,No,No,Meat,Milk,Computers and technology,6.0,3.0,App,0.0,5.0,25.0,1.0,8.0,30.0,3.0,0.0
+2013,Female,18,Left,180.0,24.0,163.0,1.0,Car,3.0,0.498,44.0,September,Fall,No,No,Soups,Water,Art,8.0,4.0,Text,100.0,15.0,0.0,0.0,0.0,2.0,20.0,20.0
+2016,Female,18,Right,167.0,25.0,160.0,1.0,Car,10.0,0.398,50.0,September,Summer,No,No,Rice/Noodle dishes,Tea,Art,7.0,4.0,Text,13.0,35.0,0.2,6.0,5.0,60.0,5.0,15.0
+2013,Female,17,Right,166.0,23.0,165.0,1.0,Car,10.0,0.427,49.0,September,Summer,No,No,Pizza/Pasta,Water,Mathematics and statistics,7.0,4.0,Text,50.0,5.0,3.0,5.0,1.0,2.0,2.0,11.0
+2011,Male,17,Left,180.0,26.0,185.0,1.0,Car,10.0,0.312,32.0,June,Fall,Yes,No,Poultry,Water,Physical education,7.0,5.0,In person,15.0,10.0,20.0,12.0,2.0,10.0,5.0,0.0
+2018,Female,17,Right,157.0,23.5,157.0,2.0,Car,13.0,0.394,54.0,December,Fall,Yes,No,Salads,Water,Mathematics and statistics,6.0,4.0,Text,100.0,36.0,2.0,10.0,0.0,50.0,12.0,15.0
+2013,Female,17,Right,155.0,24.0,155.0,1.0,Car,8.0,0.372,38.0,May,Fall,Yes,No,Pizza/Pasta,Water,Social studies,8.0,2.0,In person,75.0,40.0,4.0,6.0,1.0,40.0,20.0,8.5
+2018,Male,18,Right,184.0,26.0,184.0,1.0,Walk,13.0,0.36,83.0,June,Summer,No,No,Meat,Powdered drink,Science,7.0,4.0,Phone,600.0,30.0,7.0,25.0,2.0,6.0,5.0,20.0
+2018,Female,17,Right,168.0,25.0,168.0,1.0,Car,10.0,0.339,31.0,January,Winter,No,No,Desserts,Water,Mathematics and statistics,6.0,4.0,Text,20.0,2.0,3.0,5.0,2.0,1.0,0.0,0.0
+2014,Female,17,Right,163.0,26.0,165.0,1.0,Walk,22.0,0.313,44.0,August,Fall,No,No,Pizza/Pasta,Coffee,English,5.0,4.0,In person,4.0,4.0,20.0,0.0,0.0,10.0,5.0,12.0
+2010,Female,17,Right,173.0,24.6,168.0,1.0,Car,7.0,0.484,30.0,December,Summer,Yes,No,Desserts,Water,Mathematics and statistics,7.0,5.0,Text,30.0,12.0,20.0,12.0,0.0,20.0,15.0,0.0
+2018,Male,18,Right,196.0,30.0,191.0,1.0,Car,15.0,0.77,56.0,April,Summer,Yes,No,Pizza/Pasta,Water,Mathematics and statistics,7.0,4.0,Text,10.0,3.0,3.0,5.0,1.0,3.0,1.0,0.0
+2015,Male,16,Right,183.0,25.0,170.0,1.0,Car,7.0,0.257,41.0,September,Fall,No,No,Meat,Water,Computers and technology,6.0,6.0,App,8.0,10.0,2.0,8.0,75.0,90.0,10.0,0.0
+2011,Male,18,Right,188.0,26.0,181.0,3.0,Car,5.0,0.594,57.0,August,Spring,Yes,No,Other,Sports drink,Music,8.0,4.0,Text,69.0,12.0,0.0,10.0,1.0,10.0,20.0,2.0
+2019,Female,18,Right,162.0,21.0,119.0,1.0,Car,10.0,0.363,55.0,February,Fall,Yes,No,Desserts,Coffee,English,6.0,5.0,Phone,20.0,5.0,5.0,48.0,0.0,10.0,6.0,15.0
+2017,Male,16,Right,173.0,25.0,167.0,2.0,Bus,15.0,0.439,35.0,February,Winter,No,No,No favorite,Water,History,4.0,4.0,In person,5.0,40.0,30.0,16.0,14.0,20.0,0.0,0.0
+2016,Male,17,Right,191.8,26.3,196.2,1.0,Car,16.0,0.387,38.0,January,Spring,No,No,Desserts,Water,Art,7.0,6.0,Text,100.0,2.0,15.0,4.0,0.0,5.0,8.0,0.0
+2018,Male,17,Right,190.0,30.0,192.5,1.0,Car,14.0,0.306,52.0,January,Winter,No,No,Meat,Water,Science,7.5,4.0,Text,7.0,9.0,2.0,10.0,10.0,20.0,0.0,3.0
+2019,Female,18,Left,162.0,21.0,119.0,1.0,Car,5.0,0.545,49.0,September,Spring,Yes,No,Pizza/Pasta,Water,Languages,7.5,5.0,Text,100.0,20.0,1.0,0.0,0.0,1.0,3.0,12.0
+2019,Female,17,Right,158.0,25.2,163.8,2.0,Bus,10.0,0.412,46.0,December,Spring,No,No,Pizza/Pasta,Water,History,6.0,5.0,Text,20.0,4.0,18.0,3.0,10.0,20.0,0.0,20.0
+2012,Female,16,Right,156.0,21.0,157.0,2.0,Bus,15.0,0.297,33.0,April,Spring,No,No,Fruit,Juice,Computers and technology,6.5,6.0,App,0.0,2.0,15.0,0.0,0.5,15.0,1.0,0.0
+2012,Female,17,Right,164.0,23.0,164.0,1.0,Car,7.0,0.343,32.0,February,Fall,No,No,Rice/Noodle dishes,Coffee,English,6.0,3.0,Text,10.0,3.0,10.0,1.0,0.0,12.0,3.0,25.0
+2019,Female,18,Right,160.0,24.0,160.0,1.0,Car,10.0,0.399,47.0,January,Summer,No,No,Pizza/Pasta,Water,History,7.0,4.0,Text,45.0,14.0,3.0,14.0,2.0,20.0,5.0,0.0
+2013,Female,17,Right,167.0,24.5,178.0,2.0,Car,40.0,0.437,46.0,February,Winter,No,No,Pizza/Pasta,Water,History,4.0,3.0,Text,20.0,3.0,20.0,1.0,0.0,25.0,10.0,0.0
+2018,Male,17,Right,160.0,22.0,152.0,1.0,Bus,25.0,0.332,36.0,November,Spring,Yes,No,Breads/Sandwiches,Water,History,6.0,4.0,Text,4.0,12.0,6.0,3.0,6.0,72.0,0.0,0.0
+2016,Male,17,Both,190.5,28.0,193.0,1.0,Walk,1.0,0.382,44.0,July,Fall,No,No,Meat,Tea,History,6.5,4.0,In person,60.0,3.5,1.5,0.5,2.0,1.0,0.0,0.0
+2019,Female,17,Left,167.0,27.5,175.0,1.0,Car,15.0,0.426,44.0,August,Summer,No,No,Desserts,Water,Languages,6.0,4.0,Text,23.0,8.0,7.0,12.0,2.0,15.0,0.0,0.0
+2018,Female,17,Right,170.0,23.0,170.0,2.0,Car,15.0,0.464,50.0,December,Fall,Yes,No,Pizza/Pasta,Water,Social studies,4.0,4.0,In person,500.0,20.0,1.0,0.0,0.0,50.0,20.0,50.0
+2013,Male,17,Right,175.3,27.0,200.0,1.0,Bus,30.0,0.359,45.0,September,Summer,Yes,No,No favorite,Water,Physical education,6.0,5.0,In person,0.0,4.0,0.0,20.0,12.0,12.0,16.0,0.0
+2018,Female,17,Right,172.0,26.0,181.0,2.0,Car,11.0,0.55,50.0,January,Summer,No,No,Meat,Water,Music,5.5,4.0,Text,30.0,2.0,14.0,2.0,0.0,6.0,2.0,7.0
+2015,Male,17,Right,177.0,26.0,180.0,1.0,Car,10.0,0.441,58.0,October,Spring,Yes,No,Meat,Milk,History,9.0,4.0,Text,25.0,6.0,3.0,16.0,1.0,1.0,10.0,0.0
+2016,Male,17,Both,161.5,24.13,161.5,1.0,Car,5.0,0.305,48.0,December,Fall,No,No,Meat,Water,Science,7.5,6.0,In person,2.0,5.0,2.0,17.5,0.0,0.0,2.0,0.0
+2014,Male,15,Right,180.0,24.0,179.0,3.0,Car,11.0,0.319,42.0,March,Spring,No,Yes,Breads/Sandwiches,Water,Science,6.0,3.0,App,0.0,4.0,35.0,2.0,5.0,40.0,0.0,4.0
+2013,Male,17,Right,180.3,28.0,189.0,1.0,Bus,25.0,0.358,44.0,December,Summer,Yes,No,Poultry,Soft drink (caffeinated),Physical education,5.0,5.0,Text,5.0,1.0,1.0,3.0,40.0,40.0,20.0,0.0
+2017,Male,17,Right,176.0,28.0,172.0,2.0,Car,8.0,0.336,41.0,July,Summer,No,No,Meat,Tea,Physical education,8.0,3.0,App,5.0,5.0,5.0,5.0,5.0,3.0,0.0,32.0
+2013,Female,17,Right,177.8,23.1,173.9,1.0,Car,5.0,0.375,31.0,October,Fall,No,No,Fruit,Water,Science,6.5,6.0,Text,50.0,8.0,15.0,3.0,0.0,5.0,8.0,10.0
+2018,Male,16,Right,178.0,26.5,178.0,1.0,Car,10.0,0.28,36.0,May,Fall,Yes,No,Rice/Noodle dishes,Water,Music,6.0,4.0,Text,40.0,8.0,12.0,10.0,4.0,2.0,4.0,20.0
+2012,Male,16,Right,181.0,29.0,188.0,1.0,Car,25.0,0.29,32.0,February,Summer,No,No,Meat,Water,Mathematics and statistics,7.5,5.0,Text,100.0,5.0,15.0,20.0,2.0,5.0,10.0,0.0
+2013,Female,16,Right,165.0,23.5,160.0,1.0,Car,15.0,0.434,46.0,November,Fall,No,No,Poultry,Water,Science,7.0,3.0,Text,75.0,8.0,2.0,8.0,0.0,1.0,4.0,10.0
+2015,Female,18,Right,178.0,24.0,183.0,1.0,Bus,15.0,0.372,53.0,November,Spring,Yes,No,Soups,Water,English,8.0,7.0,In person,0.0,18.0,27.0,7.5,0.0,12.0,1.0,0.0
+2018,Male,17,Right,175.3,23.0,174.0,1.0,Car,35.0,0.384,44.0,March,Winter,No,No,Meat,Milk,History,7.0,5.0, ,10.0,4.0,2.0,12.0,1.0,8.0,0.0,14.0
+2015,Male,15,Right,174.0,25.0,173.0,2.0,Car,16.0,0.213,32.0,July,Fall,No,No,Pizza/Pasta,Water,Geography,4.5,4.0,Text,50.0,8.0,18.0,11.0,0.0,10.0,0.5,0.0
+2012,Male,18,Right,185.0,29.0,180.0,1.0,Car,8.0,0.299,47.0,June,Summer,Yes,No,Pizza/Pasta,Water,History,7.0,3.0,In person,20.0,10.0,1.0,2.0,2.0,1.0,1.0,0.0
+2017,Female,17,Right,162.0,23.0,147.0,1.0,Car,4.0,0.397,43.0,December,Winter,Yes,No,Meat,Water,Languages,7.0,7.0,Text,20.0,17.0,10.0,7.0,1.0,15.0,6.0,0.0
+2016,Female,15,Right,155.0,21.0,145.0,2.0,Bus,15.0,0.289,28.0,January,Winter,Yes,No,Desserts,Water,English,4.0,5.0,App,0.0,3.0,35.0,2.0,0.0,8.0,0.0,0.0
+2013,Male,16,Right,179.0,30.0,176.0,1.0,Bus,12.0,0.396,57.0,March,Winter,Yes,No,Pizza/Pasta,Milk,Social studies,8.0,4.0,Phone,300.0,20.0,22.0,40.0,1.0,8.0,9.0,10.0
+2019,Female,17,Right,166.4,22.8,170.1,2.0,Car,6.0,0.469,47.0,February,Summer,Yes,No,Pizza/Pasta,Water,Music,6.0,5.0,App,100.0,10.0,20.0,14.0,0.0,10.0,4.0,10.0
+2019,Female,17,Right,160.0,24.1,155.0,2.0,Car,10.0,0.437,81.0,June,Summer,No,No,Desserts,Milk,Science,7.0,4.0,Text,50.0,8.0,20.0,10.0,0.0,25.0,2.0,5.0
+2017,Female,17,Right,173.0,22.7,164.0,2.0,Car,7.0,0.545,26.0,December,Fall,No,No,Pizza/Pasta,Water,History,6.0,5.0,Text,100.0,10.0,18.0,12.0,0.0,5.0,4.0,6.0
+2015,Female,18,Right,177.8,25.4,174.0,1.0,Car,20.0,0.814,50.0,September,Summer,No,No,Meat,Water,English,6.0,5.0,Text,300.0,6.0,10.0,1.0,0.0,95.0,5.0,0.0
+2015,Female,17,Right,157.0,23.0,158.0,1.0,Car,2.0,0.364,41.0,October,Fall,No,No,Desserts,Water,Mathematics and statistics,10.0,5.0,Phone,85.0,5.0,5.0,10.0,0.0,2.0,4.0,10.0
+2015,Female,17,Right,161.5,21.0,162.0,1.0,Car,9.0,0.317,47.0,November,Spring,Yes,No,Fruit,Water,Physical education,6.0,5.0,In person,80.0,6.0,15.0,21.0,2.0,10.0,5.0,20.0
+2011,Male,17,Right,169.4,24.2,174.3,2.0,Car,12.0,0.281,29.0,July,Fall,Yes,No,Seafood,Water,Social studies,8.0,4.0,Text,60.0,5.0,10.0,2.0,7.0,10.0,4.0,8.0
+2018,Male,17,Right,174.0,27.0,179.0,1.0,Car,5.0,0.391,51.0,June,Summer,No,No,Meat,Water,Mathematics and statistics,7.0,4.0,Phone,10.0,10.0,12.0,8.0,0.0,3.0,1.0,17.0
+2017,Male,17,Right,180.0,26.0,183.0,2.0,Car,15.0,0.487,35.0,March,Fall,Yes,No,Breads/Sandwiches,Water,Mathematics and statistics,7.0,2.0,App,50.0,3.0,15.0,7.0,1.0,10.0,2.0,2.0
+2013,Female,18,Right,170.0,26.0,162.0,1.0,Car,22.0,0.42,44.0,January,Summer,Yes,No,Pizza/Pasta,Tea,Other,7.5,4.0,Phone,50.0,8.0,0.5,0.0,0.0,2.0,3.0,6.0
+2013,Male,16,Right,175.0,26.0,175.0,3.0,Car,2.0,0.294,41.0,June,Spring,No,No,Pizza/Pasta,Water,Physical education,7.0,6.0,Text,16.0,50.0,0.0,15.0,4.0,3.0,40.0,10.0
+2016,Male,16,Right,165.0,25.0,163.0,1.0,Car,3.0,0.244,34.0,November,Fall,Yes,No,Meat,Water,History,8.0,4.0,Text,15.0,4.0,12.0,6.0,0.0,15.0,15.0,0.0
+2017,Male,17,Right,178.0,25.0,180.0,1.0,Car,16.0,0.6,34.0,May,Summer,No,No,Pizza/Pasta,Water,Mathematics and statistics,4.0,3.0,Text,75.0,4.0,0.0,1.0,2.0,10.0,0.0,0.0
+2013,Female,18,Left,162.6,19.4,153.7,2.0,Bus,20.0,0.448,61.0,May,Summer,No,No,Breads/Sandwiches,Juice,Science,6.0,5.0,Text,150.0,4.0,48.0,1.0,1.0,15.0,8.0,10.0
+2010,Male,16,Right,168.0,28.0,197.0,1.0,Bus,13.0,0.375,36.0,March,Summer,No,No,Rice/Noodle dishes,Milk,English,6.0,3.0,Text,50.0,42.0,10.0,10.0,9.0,30.0,35.0,0.0
+2018,Female,16,Right,156.0,21.5,157.0,3.0,Bus,15.0,0.341,33.0,October,Fall,Yes,No,Poultry,Water,History,6.0,2.0,Text,30.0,4.0,21.0,3.0,2.0,10.0,2.0,0.0
+2016,Male,17,Right,174.0,27.0,190.0,1.0,Car,6.0,0.226,49.0,May,Summer,No,No,Meat,Water,Physical education,6.0,5.0,Phone,50.0,14.0,2.0,9.0,2.0,1.0,7.0,6.0
+2017,Male,17,Right,169.0,25.0,180.0,1.0,Car,30.0,0.376,43.0,August,Spring,No,No,Seafood,Juice,Social studies,7.0,4.0,Text,75.0,8.0,10.0,6.0,8.0,8.0,15.0,0.0
+2014,Female,17,Left,157.4,24.1,159.0,1.0,Car,5.0,0.318,38.0,May,Summer,Yes,No,No favorite,Water,History,7.0,4.0,Phone,300.0,15.0,2.0,50.0,0.0,60.0,35.0,0.0
+2015,Male,17,Right,173.0,27.0,173.0,2.0,Car,8.0,0.288,51.0,December,Summer,Yes,No,Meat,Juice,Science,6.5,5.0,Text,50.0,6.0,20.0,10.0,0.0,5.0,0.0,0.0
+2018,Male,18,Left,162.5,20.32,166.0,1.0,Bus,30.0,0.505,43.0,May,Spring,Yes,No,Seafood,Water,Art,7.0,3.0,Text,0.0,0.0,0.0,0.0,0.0,8.0,2.0,0.0
+2017,Male,17,Left,170.0,29.0,150.0,1.0,Walk,15.0,0.471,47.0,March,Winter,No,No,Meat,Water,Mathematics and statistics,7.0,20.0,Text,50.0,17.0,1.5,2.0,19.0,18.0,1.0,0.0
+2014,Male,18,Right,177.8,27.0,186.7,1.0,Car,4.0,0.275,44.0,September,Winter,No,No,Meat,Water,Science,7.0,2.0,Text,20.0,5.0,10.0,14.0,1.0,10.0,5.0,8.0
+2017,Male,17,Right,185.0,28.0,195.0,1.0,Car,8.0,0.308,55.0,November,Fall,No,No,Pizza/Pasta,Milk,Science,5.0,2.0,Text,75.0,8.0,2.0,15.0,4.0,10.0,10.0,15.0
+2010,Female,17,Right,163.0,23.0,158.0,1.0,Car,7.0,0.25,43.0,January,Winter,No,No,Rice/Noodle dishes,Water,History,6.0,4.0,In person,20.0,10.0,17.0,2.0,0.0,42.0,3.0,0.0
+2018,Male,17,Left,180.0,26.0,179.0,1.0,Car,5.0,0.38,57.0,June,Fall,No,No,Poultry,Water,Science,5.0,4.0,Text,17.0,4.0,3.0,4.0,12.0,24.0,12.0,16.0
+2016,Female,17,Right,168.9,23.0,166.4,2.0,Car,7.0,0.435,55.0,December,Summer,Yes,No,Seafood,Water,English,7.5,4.0,In person,1.0,1.0,20.0,3.0,0.0,15.0,0.0,0.0
+2017,Male,17,Both,177.8,29.0,186.0,2.0,Walk,15.0,0.366,49.0,February,Fall,No,No,Pizza/Pasta,Sports drink,Art,7.0,3.0,Text,200.0,1.0,5.0,2.0,1.0,2.0,0.0,0.0
+2019,Female,17,Right,155.0,20.0,163.0,1.0,Bus,16.0,0.35,43.0,July,Fall,Yes,No,Rice/Noodle dishes,Water,Art,6.0,5.0,App,70.0,5.0,3.0,0.0,0.0,24.0,3.0,9.0
+2017,Female,17,Right,166.0,21.0,162.0,1.0,Car,5.0,0.468,37.0,September,Summer,No,No,Poultry,Milk,Computers and technology,7.0,5.0,App,40.0,10.0,10.0,12.0,0.0,5.0,10.0,5.0
+2018,Female,17,Right,157.0,23.0,156.0,1.0,Car,10.0,0.52,47.0,March,Fall,No,No,Pizza/Pasta,Water,Science,7.0,5.0,Text,300.0,20.0,20.0,15.0,0.0,40.0,10.0,25.0
+2018,Female,17,Right,167.0,23.0,165.0,1.0,Car,11.0,0.34,61.0,February,Summer,No,No,Pizza/Pasta,Tea,Mathematics and statistics,5.0,2.0,Phone,260.0,14.0,0.0,24.0,5.0,60.0,60.0,40.0
+2018,Male,18,Both,177.8,26.5,173.5,1.0,Car,9.0,0.348,41.0,October,Fall,No,No,Pizza/Pasta,Water,Physical education,8.0,5.0,App,3.0,22.0,2.0,13.0,2.5,5.0,10.0,0.0
+2013,Female,18,Right,153.7,21.7,152.4,3.0,Bus,5.0,0.265,28.0,October,Fall,No,No,Rice/Noodle dishes,Water,Languages,6.0,5.0,App,20.0,9.5,23.0,13.0,3.0,18.0,5.0,0.0
+2014,Male,18,Right,180.0,25.7,187.0,1.0,Bus,20.0,0.41,81.0,August,Fall,Yes,No,Meat,Water,Science,6.0,3.0,In person,1.0,5.0,5.0,0.0,1.0,4.0,2.0,0.0
+2018,Male,17,Right,181.0,26.0,176.0,1.0,Bus,5.0,0.313,43.0,June,Fall,No,No,Meat,Soft drink (caffeinated),Computers and technology,6.0,2.0,Text,30.0,1.0,0.0,2.0,20.0,10.0,1.0,20.0
+2016,Male,18,Left,187.9,25.0,180.0,1.0,Car,7.0,0.318,79.0,September,Summer,Yes,No,Meat,Water,Physical education,7.5,3.0,Text,14.0,27.0,2.5,20.0,1.0,3.0,40.0,12.0
+2010,Female,17,Right,152.4,23.0,152.0,1.0,Car,8.0,0.61,44.0,July,Fall,No,No,Pizza/Pasta,Tea,Science,7.0,4.0,Text,800.0,12.0,0.0,8.0,1.0,7.0,9.0,3.0
+2017,Female,17,Right,162.0,21.0,157.0,1.0,Car,10.0,0.413,47.0,January,Fall,No,No,Meat,Water,Computers and technology,6.0,3.0,In person,60.0,10.0,1.0,13.0,0.0,10.0,5.0,7.0
+2011,Female,17,Right,155.9,24.7,164.8,2.0,Car,11.0,0.297,32.0,August,Spring,Yes,No,Pizza/Pasta,Water,Mathematics and statistics,5.5,4.0,Text,200.0,12.0,18.0,4.0,0.0,30.0,10.0,3.0
+2010,Male,17,Right,185.0,28.0,178.0,2.0,Bus,15.0,0.556,45.0,April,Fall,Yes,No,No favorite,Water,History,6.0,3.0,App,10.0,10.0,20.0,11.0,0.0,11.0,7.0,0.0
+2014,Female,17,Right,170.0,23.0,170.0,1.0,Car,8.0,0.299,41.0,July,Spring,No,No,Pizza/Pasta,Water,Mathematics and statistics,7.0,6.0,Text,30.0,3.0,15.0,0.0,0.0,10.0,10.0,4.0
+2018,Male,17,Right,172.0,23.0,192.0,1.0,Car,10.0,0.893,51.0,January,Fall,Yes,No,Meat,Sports drink,Mathematics and statistics,7.0,4.0,Text,30.0,10.0,8.0,20.0,8.0,15.0,10.0,2.0
+2010,Male,17,Right,185.0,31.0,185.0,1.0,Car,5.0,0.328,67.0,May,Fall,Yes,No,Poultry,Tea,History,6.5,2.0,In person,300.0,40.0,20.0,25.0,5.0,60.0,10.0,24.0
+2019,Female,17,Right,160.0,24.0,150.0,1.0,Car,5.0,0.416,39.0,January,Summer,No,No,Pizza/Pasta,Water,Mathematics and statistics,7.0,5.0,Text,50.0,7.0,8.0,4.0,0.0,6.0,0.0,0.0
+2018,Female,16,Right,160.0,23.0,166.0,1.0,Car,10.0,0.507,58.0,March,Summer,No,No,Desserts,Coffee,English,6.0,3.0,Text,325.0,18.0,50.0,0.0,0.0,75.0,5.0,10.0
+2018,Male,15,Left,180.0,29.0,173.0,1.0,Car,10.0,0.362,42.0,December,Summer,Yes,No,Meat,Soft drink (caffeinated),History,5.0,4.0,In person,3.0,5.0,5.0,10.0,25.0,40.0,0.0,0.0
+2013,Female,17,Right,152.5,25.0,158.0,2.0,Car,11.0,0.456,40.0,April,Fall,Yes,No,Fruit,Water,English,7.0,5.0,Text,200.0,1.0,10.0,20.0,3.0,5.0,1.0,20.0
+2017,Male,17,Left,168.0,26.0,170.5,2.0,Bus,10.0,0.465,54.0,September,Summer,No,No,Meat,Water,Mathematics and statistics,8.0,3.0,Phone,25.0,10.0,15.0,5.0,25.0,60.0,0.0,40.0
+2013,Male,17,Right,180.0,30.0,185.0,1.0,Car,12.0,0.407,51.0,February,Summer,Yes,No,No favorite,Soft drink (caffeinated),History,10.0,4.0,App,12.0,15.0,8.0,14.0,6.0,20.0,5.0,0.0
+2017,Female,16,Right,156.0,21.5,155.0,1.0,Car,45.0,0.498,40.0,November,Fall,Yes,No,Rice/Noodle dishes,Water,Mathematics and statistics,6.0,3.0,In person,0.0,2.0,8.0,10.0,0.0,12.0,4.0,0.0
+2010,Male,17,Right,182.8,26.1,184.0,1.0,Bus,30.0,0.406,49.0,August,Winter,No,No,Fruit,Water,Science,7.5,4.0,App,0.0,3.0,15.0,1.0,1.0,14.0,12.0,0.0
+2014,Female,18,Right,164.0,23.0,140.0,1.0,Bus,20.0,0.435,50.0,December,Spring,No,No,Meat,Water,Music,7.0,7.0,Text,100.0,6.0,4.0,2.0,1.0,3.0,8.0,6.0
+2017,Male,17,Left,185.0,29.0,192.0,2.0,Car,10.0,0.317,51.0,December,Summer,Yes,No,Meat,Water,Mathematics and statistics,7.0,1.0,Text,100.0,25.0,1.0,24.0,1.0,9.0,3.0,4.0
+2013,Male,17,Right,182.5,27.9,180.3,2.0,Car,10.0,0.358,48.0,February,Fall,No,No,Meat,Water,Science,7.0,4.0,Text,200.0,5.0,12.0,5.0,2.0,4.0,3.0,16.0
+2015,Male,17,Right,171.0,26.0,171.0,2.0,Car,10.0,0.406,41.0,September,Fall,No,No,Meat,Water,Mathematics and statistics,6.5,3.0,App,9.0,5.0,20.0,6.0,1.0,35.0,2.0,1.0
+2017,Female,18,Right,165.0,24.5,169.0,2.0,Car,20.0,0.458,55.0,October,Fall,Yes,No,Desserts,Water,Languages,8.0,3.0,In person,9.0,13.0,42.0,4.0,0.0,35.0,14.0,12.0
+2019,Male,17,Right,185.4,28.6,184.0,3.0,Car,10.0,0.548,42.0,July,Spring,Yes,No,Pizza/Pasta,Water,Music,8.0,4.0,Text,5.0,5.0,2.0,1.0,5.0,7.0,2.0,9.0
+2019,Female,17,Right,173.0,28.0,170.0,1.0,Bus,10.0,0.353,41.0,October,Fall,Yes,No,Pizza/Pasta,Soft drink (caffeinated),Music,6.0,3.0,Text,8.0,50.0,3.0,20.0,7.0,15.0,30.0,9.0
+2014,Male,16,Right,171.0,25.0,174.0,1.0,Bus,22.0,0.289,52.0,November,Fall,No,No,Meat,Water,History,7.0,4.0,Text,40.0,14.0,7.0,6.0,6.0,4.0,10.0,17.0
+2011,Female,17,Right,157.0,22.0,152.0,4.0,Car,15.0,0.322,34.0,January,Fall,No,No,Other,Water,Art,6.0,4.0,App,50.0,0.0,25.0,6.0,1.0,19.0,2.0,3.0
+2015,Male,16,Right,180.3,25.0,132.0,2.0,Bus,8.0,0.321,40.0,July,Fall,No,No,No favorite,Water,Computers and technology,4.0,2.0,App,0.0,0.0,4.0,0.0,4.0,10.0,0.0,0.0
+2013,Female,17,Right,176.0,28.0,170.0,1.0,Bus,15.0,0.327,38.0,February,Summer,Yes,Yes,Pizza/Pasta,Water,Art,5.0,5.0,In person,20.0,10.0,10.0,10.0,3.0,10.0,8.0,14.0
+2014,Male,16,Right,184.0,27.0,185.0,1.0,Bus,20.0,0.485,54.0,December,Winter,Yes,No,Meat,Water,Computers and technology,7.5,5.0,Text,2.0,40.0,0.0,10.0,5.0,8.0,6.0,0.0
+2010,Male,17,Right,179.0,28.0,187.0,2.0,Bus,35.0,0.281,29.0,July,Summer,Yes,No,Pizza/Pasta,Water,Mathematics and statistics,8.0,4.0,Text,100.0,50.0,12.0,20.0,4.0,20.0,12.0,3.0
+2015,Male,17,Left,178.0,27.0,178.0,1.0,Car,12.0,0.242,41.0,August,Spring,No,No,Pizza/Pasta,Water,Science,7.5,4.0,In person,16.0,5.0,10.0,12.0,0.0,10.0,5.0,0.0
+2013,Female,18,Right,165.0,24.0,166.0,2.0,Car,20.0,0.739,43.0,December,Fall,No,No,Meat,Water,Art,7.0,3.0,App,20.0,5.0,10.0,12.0,0.0,48.0,2.0,0.0
+2016,Female,18,Right,154.0,20.0,140.0,1.0,Car,5.0,0.343,38.0,August,Fall,No,No,Rice/Noodle dishes,Water,Art,6.0,4.0,Text,300.0,20.0,0.5,3.0,0.0,40.0,3.0,0.0
+2012,Female,17,Right,175.0,23.0,174.0,1.0,Walk,4.0,0.8,50.0,May,Fall,No,No,Rice/Noodle dishes,Water,Music,8.0,2.0,In person,18.0,45.0,10.0,2.0,7.0,40.0,4.0,0.0
+2015,Male,18,Both,167.6,25.4,187.0,1.0,Car,20.0,0.337,40.0,January,Fall,Yes,No,Meat,Sports drink,Music,6.0,5.0,App,30.0,7.0,1.0,14.0,0.0,14.0,0.0,0.0
+2015,Female,18,Right,178.0,27.0,172.0,1.0,Car,10.0,0.444,41.0,July,Winter,Yes,No,Rice/Noodle dishes,Tea,English,7.0,4.0,In person,100.0,10.0,10.0,3.0,2.0,30.0,2.0,15.0
+2017,Male,17,Left,173.6,24.0,179.4,1.0,Car,5.0,0.321,67.0,January,Fall,Yes,No,Pizza/Pasta,Water,Physical education,6.0,3.0,Text,100.0,4.0,3.0,2.0,7.0,5.0,3.0,18.0
+2016,Male,17,Right,184.0,27.0,182.0,1.0,Car,9.0,0.215,45.0,April,Summer,Yes,No,Poultry,Sports drink,Mathematics and statistics,7.0,3.0,Text,150.0,8.0,10.0,5.0,1.0,40.0,50.0,25.0
+2012,Female,17,Right,162.0,22.0,157.0,2.0,Car,6.0,0.439,40.0,March,Summer,Yes,No,Other,Water,English,6.0,3.0,Text,500.0,15.0,5.0,0.0,0.0,10.0,10.0,0.0
+2017,Male,17,Right,193.0,26.0,193.0,1.0,Car,8.0,0.375,30.0,November,Summer,No,No,Meat,Coffee,Mathematics and statistics,6.0,4.0,Text,50.0,20.0,5.0,10.0,0.0,7.0,0.0,0.0
+2013,Male,18,Right,188.0,27.0,188.0,1.0,Bus,10.0,0.29,54.0,August,Summer,Yes,No,Pizza/Pasta,Juice,Music,7.0,4.0,Text,50.0,20.0,3.0,1.0,1.0,8.0,2.0,15.0
+2018,Male,18,Right,185.0,28.0,210.0,2.0,Car,11.0,0.364,38.0,July,Fall,Yes,No,Seafood,Water,History,7.0,4.0,Text,60.0,4.0,6.0,28.0,7.0,10.0,5.0,0.0
+2019,Female,17,Right,170.0,25.0,158.0,1.0,Car,8.0,0.389,39.0,July,Summer,No,No,Rice/Noodle dishes,Water,Science,6.0,3.0,Text,40.0,6.0,11.0,2.0,1.0,10.0,2.0,0.0
+2019,Female,18,Right,164.0,22.0,159.0,1.0,Car,10.0,0.378,54.0,September,Fall,No,No,Fruit,Water,English,6.0,4.0,In person,30.0,15.0,10.0,17.0,0.0,40.0,8.0,15.0
+2017,Female,17,Right,173.0,23.0,173.0,2.0,Car,10.0,0.346,44.0,October,Fall,Yes,No,No favorite,Water,Science,5.0,3.0,In person,59.0,4.0,18.0,12.0,0.0,16.0,2.0,24.0
+2017,Male,17,Right,178.0,27.0,186.0,1.0,Car,15.0,0.348,40.0,November,Winter,Yes,No,Seafood,Water,Other,7.0,3.0,Text,100.0,10.0,25.0,15.0,1.0,10.0,0.0,10.0
+2017,Male,18,Right,177.0,25.0,177.0,2.0,Car,15.0,0.335,59.0,July,Spring,No,No,Pizza/Pasta,Water,Mathematics and statistics,7.0,4.0,In person,40.0,20.0,15.0,12.0,5.0,2.0,0.0,0.0
+2017,Female,17,Right,150.0,21.0,147.0,2.0,Car,12.0,0.549,38.0,December,Fall,Yes,No,Rice/Noodle dishes,Water,Social studies,7.0,5.0,Text,20.0,3.0,15.0,10.0,0.0,12.0,5.0,0.0
+2015,Female,17,Right,168.0,24.0,167.0,1.0,Car,15.0,0.309,47.0,April,Summer,No,No,Seafood,Water,Physical education,6.0,6.0,Phone,250.0,6.0,4.0,11.0,0.0,1.0,0.0,22.0
+2018,Female,17,Right,165.1,24.5,167.0,2.0,Car,3.0,0.359,46.0,October,Fall,No,No,Breads/Sandwiches,Water,Computers and technology,8.0,6.0,Text,50.0,35.0,5.0,15.0,1.0,40.0,20.0,15.0
+2017,Male,17,Right,181.0,28.0,195.0,1.0,Car,15.0,0.311,42.0,April,Fall,Yes,No,Pizza/Pasta,Water,History,6.0,4.0,In person,30.0,20.0,8.0,14.0,10.0,5.0,14.0,0.0
+2015,Male,17,Right,173.0,28.0,169.0,2.0,Car,5.0,0.309,35.0,February,Winter,Yes,No,Meat,Other,Other,3.0,4.0,App,500.0,3.0,50.0,0.0,5.0,14.0,4.0,0.0
+2019,Female,17,Right,169.0,23.0,163.0,1.0,Car,12.0,0.462,43.0,November,Summer,No,No,Desserts,Water,Mathematics and statistics,6.0,5.0,Text,50.0,10.0,8.0,28.0,0.0,0.0,6.0,0.0
+2018,Male,18,Right,188.0,30.0,190.0,1.0,Car,15.0,0.714,50.0,April,Summer,No,No,Meat,Water,Computers and technology,4.0,4.0,Text,500.0,50.0,3.0,2.0,10.0,2.0,1.0,25.0
+2019,Female,21,Right,157.0,20.0,157.0,1.0,Walk,15.0,0.46,34.0,March,Fall,Yes,No,Seafood,Water,Mathematics and statistics,8.0,5.0,Text,18.0,40.0,13.0,4.0,2.0,66.0,14.0,0.0
+2013,Female,17,Right,162.5,23.0,158.0,1.0,Bus,20.0,0.415,52.0,December,Winter,Yes,No,Meat,Tea,Art,6.0,3.0,In person,0.0,49.0,3.0,24.0,14.0,21.0,0.0,0.0
+2018,Female,17,Right,159.0,24.0,161.0,2.0,Car,10.0,0.399,42.0,May,Fall,No,No,Poultry,Water,Science,6.5,4.0,App,100.0,10.0,6.0,10.0,1.0,15.0,9.0,19.0
+2017,Female,17,Right,157.0,22.0,161.0,1.0,Car,15.0,0.587,33.0,October,Summer,Yes,No,Breads/Sandwiches,Water,History,8.0,4.0,In person,50.0,12.0,10.0,7.0,0.0,5.0,2.0,4.0
+2013,Male,17,Right,168.0,25.4,180.0,2.0,Bus,25.0,0.369,38.0,May,Spring,No,No,Poultry,Powdered drink,History,7.0,5.0,App,77.0,8.0,2.0,10.0,10.0,2.0,12.0,0.0
+2015,Female,17,Right,173.0,24.0,175.0,2.0,Car,8.0,0.403,32.0,January,Fall,Yes,No,Rice/Noodle dishes,Tea,Science,7.0,6.0,Text,150.0,5.0,9.0,12.0,1.0,5.0,2.0,0.0
+2013,Male,16,Right,178.0,25.0,181.6,2.0,Bus,30.0,0.48,49.0,May,Summer,No,No,No favorite,Water,Computers and technology,7.0,4.0,Text,250.0,10.0,4.0,3.0,2.0,27.0,1.0,4.0
+2010,Female,18,Right,166.0,23.0,167.0,1.0,Car,40.0,0.516,53.0,November,Winter,No,No,Rice/Noodle dishes,Tea,Art,8.0,6.0,In person,5.0,20.0,5.0,5.0,0.0,2.0,3.0,4.0
+2018,Female,16,Right,158.0,23.0,157.0,1.0,Car,7.0,0.355,41.0,October,Fall,No,No,Breads/Sandwiches,Water,Music,7.0,5.0,Phone,30.0,10.0,15.0,24.0,0.0,6.0,10.0,12.0
+2012,Female,17,Right,161.0,23.5,157.0,1.0,Car,12.0,0.374,35.0,June,Summer,Yes,No,Breads/Sandwiches,Tea,Science,6.0,6.0,Phone,50.0,20.0,2.0,12.0,1.0,2.0,15.0,15.0
+2016,Female,17,Right,167.0,20.32,120.0,1.0,Car,4.0,0.583,60.0,April,Fall,Yes,No,Meat,Juice,Art,9.0,3.0,Text,50.0,10.0,1.0,5.0,0.0,12.0,8.0,15.0
+2013,Male,16,Right,188.0,27.0,188.0,1.0,Bus,12.0,0.422,54.0,April,Summer,Yes,No,Meat,Soft drink (caffeinated),Science,7.5,4.0,App,5.0,5.0,8.0,3.0,5.0,3.0,2.0,0.0
+2014,Male,16,Right,198.0,26.0,176.5,1.0,Car,8.0,0.265,36.0,January,Summer,No,No,Meat,Water,Mathematics and statistics,6.5,3.0,Text,100.0,5.0,12.0,12.0,2.0,2.0,3.0,0.0
+2014,Male,17,Right,184.1,27.94,184.1,1.0,Car,8.0,0.269,52.0,April,Winter,Yes,No,No favorite,Milk,Computers and technology,6.0,3.0,App,0.0,7.0,7.0,0.0,28.0,28.0,7.0,0.0
+2015,Female,16,Right,158.0,22.0,159.0,1.0,Car,5.0,0.425,56.0,June,Summer,Yes,No,Pizza/Pasta,Water,English,7.0,4.0,Text,150.0,6.0,9.0,5.0,1.0,0.0,4.0,15.0
+2012,Female,17,Right,169.0,25.0,178.0,3.0,Bus,20.0,0.295,43.0,December,Spring,No,Yes,Other,Milk,Science,6.5,4.0,App,0.0,1.0,32.0,0.0,0.0,10.0,15.0,0.0
+2018,Female,17,Right,164.0,22.0,159.0,1.0,Car,7.0,0.332,48.0,November,Fall,No,No,Desserts,Water,Science,7.0,5.0,In person,35.0,7.0,14.0,12.0,0.0,7.0,7.0,0.0
+2013,Female,18,Right,157.5,32.0,154.0,1.0,Bus,30.0,0.495,44.0,January,Spring,No,No,Rice/Noodle dishes,Water,Other,8.0,3.0,Text,200.0,50.0,5.0,3.0,0.0,5.0,25.0,15.0
+2014,Male,17,Right,177.0,25.0,185.0,2.0,Car,7.0,0.39,50.0,February,Summer,No,No,Meat,Water,Social studies,8.0,3.0,In person,10.0,6.0,6.0,14.0,0.0,2.0,4.0,0.0
+2017,Male,17,Right,173.0,27.0,182.0,2.0,Bus,5.0,0.453,46.0,October,Fall,No,No,Seafood,Juice,English,4.0,4.0,Text,16.0,15.0,2.0,1.0,72.0,72.0,1.0,0.0
+2019,Female,17,Left,161.9,23.0,161.0,1.0,Car,7.0,0.373,40.0,May,Winter,No,No,Pizza/Pasta,Water,Music,5.0,5.0,Phone,20.0,20.0,80.0,40.0,20.0,10.0,3.0,5.0
+2015,Female,18,Right,160.0,23.0,160.0,2.0,Bus,30.0,0.539,42.0,March,Spring,Yes,No,Fruit,Water,Mathematics and statistics,4.0,11.0,Text,20.0,0.0,1.0,4.0,0.0,2.0,2.0,25.0
+2018,Male,17,Right,178.0,26.0,179.5,1.0,Car,20.0,0.377,55.0,September,Spring,No,No,Poultry,Milk,Mathematics and statistics,8.0,4.0,Text,2.0,2.0,1.0,10.0,0.0,6.0,0.0,0.0
+2019,Female,21,Right,165.0,24.6,165.0,1.0,Walk,20.0,0.369,38.0,November,Summer,No,No,Breads/Sandwiches,Water,Music,3.0,4.0,Text,30.0,30.0,55.0,25.0,0.0,17.0,2.0,6.0
+2016,Female,17,Right,154.0,20.0,138.0,1.0,Car,5.0,0.288,43.0,October,Fall,No,No,No favorite,Juice,Science,8.0,4.0,Text,88.0,25.0,0.0,0.0,0.0,0.0,9.0,20.0
+2019,Female,17,Right,168.0,23.0,167.0,1.0,Bus,6.0,0.46,34.0,March,Fall,Yes,No,Fruit,Water,History,5.0,7.0,Text,7.0,20.0,20.0,10.0,0.0,40.0,0.0,15.0
+2017,Female,17,Right,167.3,25.0,185.0,1.0,Car,17.0,0.7,38.0,March,Fall,Yes,No,Rice/Noodle dishes,Water,English,5.0,2.0,Text,45.0,8.0,6.0,1.0,0.0,15.0,3.0,0.0
+2018,Male,16,Left,164.0,22.0,163.0,1.0,Bus,10.0,0.289,37.0,January,Summer,Yes,No,Meat,Water,Mathematics and statistics,5.0,4.0,App,10.0,10.0,25.0,1.0,5.0,70.0,0.0,10.0
+2017,Female,18,Right,156.0,23.0,154.5,1.0,Bus,21.0,0.355,54.0,August,Fall,Yes,No,Pizza/Pasta,Milk,Mathematics and statistics,6.0,5.0,Text,100.0,20.0,5.0,0.0,0.0,50.0,6.0,0.0
+2018,Female,17,Right,162.0,23.0,156.0,1.0,Bus,15.0,0.398,37.0,April,Fall,No,No,Poultry,Water,Mathematics and statistics,6.0,3.0,Text,10.0,3.0,5.0,1.0,0.0,5.0,4.0,0.0
+2018,Female,17,Right,169.0,23.0,164.0,1.0,Car,9.0,0.615,45.0,January,Fall,Yes,No,Pizza/Pasta,Water,Science,7.5,5.0,In person,19.0,0.0,10.0,6.0,0.0,0.0,3.0,1.0
+2012,Male,17,Right,175.3,24.4,175.2,2.0,Car,6.0,0.19,45.0,October,Summer,No,No,Pizza/Pasta,Water,Mathematics and statistics,8.0,5.0,In person,50.0,7.0,8.0,15.0,2.0,7.0,7.0,2.0
+2018,Female,17,Left,173.0,25.0,173.0,1.0,Car,20.0,0.475,39.0,June,Summer,Yes,No,Meat,Water,Science,7.0,4.0,Text,138.0,10.0,20.0,2.0,0.0,7.0,6.0,2.0
+2016,Male,18,Left,167.0,28.6,160.0,1.0,Car,5.0,0.233,34.0,April,Summer,No,No,Pizza/Pasta,Tea,Computers and technology,7.0,3.0,Text,40.0,3.0,1.0,2.0,20.0,50.0,2.0,16.0
+2017,Male,18,Left,185.0,28.0,194.0,1.0,Car,15.0,0.365,72.0,August,Spring,No,No,Meat,Water,Mathematics and statistics,7.0,4.0,Text,350.0,3.0,10.0,15.0,10.0,25.0,3.0,28.0
+2010,Female,17,Right,157.0,25.0,161.0,1.0,Car,10.0,0.453,37.0,May,Winter,Yes,No,Poultry,Tea,History,7.0,3.0,Text,100.0,12.0,3.0,9.0,2.0,4.0,6.0,0.0
+2016,Female,17,Right,162.0,23.0,161.0,3.0,Bus,25.0,0.512,38.0,April,Winter,No,Yes,Fruit,Water,History,5.0,5.0,App,285.0,1.0,36.0,10.0,0.0,40.0,2.0,0.0
+2013,Male,17,Left,167.9,25.0,176.0,2.0,Bus,10.0,0.344,41.0,January,Fall,Yes,No,Meat,Water,Science,7.0,3.0,App,0.0,3.0,3.0,2.0,0.0,30.0,0.0,1.0
+2017,Female,17,Right,165.0,26.0,170.0,1.0,Car,7.0,0.534,26.0,May,Fall,Yes,No,Seafood,Water,Science,6.5,6.0,Text,150.0,2.0,20.0,12.0,0.0,15.0,8.0,2.5
+2017,Female,17,Right,154.0,24.0,143.0,1.0,Car,2.0,0.546,36.0,April,Fall,No,No,Pizza/Pasta,Water,Physical education,8.0,3.0,Text,100.0,6.0,1.0,6.0,0.0,6.0,1.0,0.0
+2017,Female,17,Left,157.0,21.5,160.0,1.0,Car,15.0,0.416,42.0,August,Fall,Yes,No,Desserts,Tea,Art,6.5,5.0,Text,10.0,1.0,15.0,10.0,0.0,5.0,2.0,0.0
+2017,Male,17,Right,183.0,27.0,184.0,2.0,Car,10.0,0.657,52.0,March,Fall,No,No,Pizza/Pasta,Water,History,7.0,5.0,In person,100.0,18.0,3.0,18.0,5.0,3.0,3.0,3.0
+2011,Female,17,Left,163.0,22.0,164.0,1.0,Car,10.0,0.437,36.0,November,Spring,No,No,Desserts,Water,Science,6.5,3.0,Text,20.0,12.0,16.0,2.0,2.0,12.0,14.0,0.0
+2017,Female,18,Left,162.5,24.5,157.0,2.0,Walk,12.0,0.352,53.0,October,Fall,Yes,No,Desserts,Juice,Physical education,6.0,22.0,Text,100.0,7.0,15.0,10.0,1.0,48.0,3.0,0.0
+2018,Male,18,Right,142.0,24.0,155.0,1.0,Car,2.0,0.46,36.0,June,Winter,Yes,Yes,Pizza/Pasta,Water,Physical education,5.0,4.0,Text,200.0,10.0,2.0,4.0,2.0,2.0,2.0,12.0
+2014,Male,18,Right,175.0,25.4,178.0,1.0,Car,4.0,0.335,41.0,April,Summer,No,No,Poultry,Tea,Physical education,6.0,4.0,Phone,100.0,20.0,0.0,10.0,2.0,5.0,10.0,10.0
+2018,Male,18,Right,173.0,28.0,178.0,1.0,Car,15.0,0.366,49.0,June,Summer,Yes,No,Meat,Water,History,7.0,6.0,Phone,125.0,10.0,5.0,16.0,1.0,4.0,6.0,0.0
+2010,Male,17,Right,183.0,29.0,194.0,1.0,Car,20.0,0.296,43.0,May,Spring,Yes,No,Fruit,Water,Science,6.0,4.0,Text,5.0,13.0,15.0,4.0,14.0,28.0,2.0,4.0
+2018,Female,17,Right,170.0,25.0,174.0,1.0,Car,10.0,0.549,64.0,June,Summer,Yes,No,Pizza/Pasta,Water,Mathematics and statistics,7.0,5.0,Text,15.0,10.0,12.0,5.0,0.0,5.0,6.0,30.0
+2019,Male,16,Right,185.0,33.0,178.0,2.0,Car,7.0,0.4,38.0,June,Fall,Yes,No,Seafood,Water,Mathematics and statistics,8.0,2.0,App,15.0,15.0,7.0,20.0,2.0,4.0,0.0,0.0
+2013,Male,18,Right,188.0,30.0,191.0,1.0,Car,7.0,0.298,42.0,April,Fall,No,No,Meat,Sports drink,Science,7.0,6.0,Phone,30.0,5.0,3.0,10.0,2.0,3.0,4.0,0.0
+2013,Male,17,Right,178.0,29.0,172.0,1.0,Car,5.0,0.298,40.0,October,Fall,No,No,Soups,Coffee,History,7.0,4.0,Text,35.0,6.0,2.0,3.0,10.0,5.0,4.0,0.0
+2017,Male,18,Left,178.0,27.0,183.0,1.0,Car,50.0,0.376,39.0,January,Spring,Yes,Yes,No favorite,Tea,Art,5.0,5.0,In person,8.0,10.0,12.0,4.0,0.0,10.0,6.0,0.0
+2014,Male,17,Left,167.0,23.9,173.0,2.0,Walk,15.0,0.345,46.0,April,Winter,Yes,No,Rice/Noodle dishes,Water,Mathematics and statistics,6.0,4.0,App,0.0,1.0,35.0,3.0,0.0,28.0,0.0,0.0
+2017,Male,15,Right,175.0,25.2,180.1,3.0,Bus,9.0,0.32,40.0,December,Winter,No,No,Meat,Water,Science,6.5,4.0,Text,60.0,8.0,20.0,4.0,0.0,16.0,6.0,1.0
+2013,Male,17,Right,186.0,30.0,184.0,2.0,Car,10.0,0.447,38.0,February,Spring,Yes,No,Seafood,Tea,Music,7.0,6.0,Text,128.0,11.0,7.0,5.0,1.0,2.0,9.0,0.0
+2013,Male,17,Right,163.8,25.4,164.3,2.0,Bus,25.0,0.4,42.0,October,Summer,No,No,Seafood,Sports drink,Mathematics and statistics,7.0,7.0,Text,20.0,10.0,7.0,7.0,15.0,10.0,2.0,5.0
+2011,Female,17,Right,155.4,21.7,152.0,2.0,Car,7.0,0.343,41.0,November,Summer,No,No,Pizza/Pasta,Juice,Social studies,5.0,6.0,Phone,16.0,8.0,30.0,3.0,4.0,80.0,3.0,0.0
+2018,Female,17,Right,170.2,23.5,173.5,1.0,Car,20.0,0.332,34.0,November,Summer,No,No,Fruit,Water,Mathematics and statistics,7.0,4.0,Text,350.0,8.0,30.0,7.0,0.0,60.0,5.0,24.0
+2010,Female,17,Right,162.0,23.0,151.0,2.0,Car,60.0,0.359,31.0,November,Fall,Yes,Yes,Vegetables,Tea,Art,4.0,3.0,In person,0.0,1.0,9.0,0.0,2.0,5.0,1.0,8.0
+2010,Male,18,Right,180.0,24.38,185.0,2.0,Car,5.0,0.281,58.0,June,Summer,No,No,No favorite,Water,Social studies,6.0,5.0,Text,19.0,5.0,18.0,1.0,0.0,10.0,2.0,6.0
+2014,Male,17,Left,175.0,24.0,177.0,2.0,Bus,14.0,0.383,58.0,August,Spring,No,No,Pizza/Pasta,Water,Science,6.5,4.0,App,2.0,3.0,8.0,3.0,8.0,20.0,3.0,0.0
+2011,Male,18,Right,169.0,27.0,181.0,2.0,Car,12.0,0.266,32.0,July,Winter,No,No,Meat,Water,Physical education,7.0,3.0,Text,69.0,27.0,5.0,30.0,16.0,8.0,9.0,30.0
+2017,Male,18,Both,182.5,27.5,179.0,2.0,Car,8.0,0.169,52.0,May,Fall,Yes,No,Meat,Water,Science,8.0,6.0,Phone,200.0,15.0,5.0,20.0,3.0,6.0,6.0,10.0
+2017,Male,16,Right,184.6,28.0,178.5,2.0,Car,15.0,0.41,41.0,November,Summer,No,No,Meat,Milk,Mathematics and statistics,6.0,5.0,In person,20.0,10.0,6.0,10.0,1.0,2.0,0.0,10.0
+2017,Female,17,Left,162.0,25.0,162.0,2.0,Bus,8.0,0.436,47.0,April,Fall,Yes,No,Pizza/Pasta,Tea,English,6.5,4.0,In person,25.0,2.0,10.0,22.0,0.0,10.0,4.0,10.0
+2014,Male,17,Right,173.0,25.0,177.0,1.0,Car,7.0,0.374,33.0,April,Spring,No,No,Pizza/Pasta,Juice,Other,7.0,4.0,Text,3.0,20.0,0.0,4.0,25.0,25.0,20.0,0.0
+2011,Female,18,Right,163.0,23.0,162.5,2.0,Car,5.0,0.297,30.0,September,Summer,No,No,Meat,Milk,History,7.5,4.0,In person,15.0,8.0,14.0,1.0,0.0,10.0,5.0,5.0
+2018,Female,16,Right,166.0,24.5,170.0,4.0,Bus,15.0,0.519,34.0,May,Spring,No,No,Seafood,Water,Mathematics and statistics,9.0,4.0,In person,20.0,7.0,20.0,12.0,0.0,9.0,4.0,0.0
+2017,Female,17,Right,167.6,24.0,168.9,1.0,Car,15.0,0.266,41.0,October,Fall,No,No,Desserts,Juice,Mathematics and statistics,7.0,4.0,App,1.0,4.0,17.0,22.0,2.0,10.0,1.0,4.0
+2019,Female,18,Right,163.0,23.0,169.0,1.0,Car,12.0,0.465,52.0,January,Summer,No,No,No favorite,Coffee,Science,7.0,5.0,Text,45.0,5.0,5.0,3.0,0.0,15.0,10.0,25.0
+2010,Female,18,Right,168.0,25.0,161.0,1.0,Car,20.0,0.293,60.0,March,Summer,No,No,Fruit,Water,Physical education,6.0,4.0,Phone,100.0,15.0,0.0,10.0,0.0,1.0,2.0,30.0
+2018,Female,17,Right,171.0,23.0,165.0,1.0,Car,5.0,0.328,40.0,August,Fall,Yes,No,Pizza/Pasta,Water,Physical education,7.0,4.0,In person,1.0,6.0,4.0,2.0,0.0,20.0,5.0,4.0
+2012,Female,17,Right,163.0,25.0,165.0,2.0,Car,15.0,0.479,50.0,December,Summer,Yes,No,Desserts,Water,Mathematics and statistics,8.0,5.0,Text,100.0,8.0,12.0,13.0,0.0,6.0,6.0,0.0
+2013,Female,18,Right,162.0,22.0,162.0,1.0,Walk,20.0,0.385,51.0,November,Summer,Yes,No,Pizza/Pasta,Soft drink (non-caffeinated),Physical education,7.0,5.0,In person,40.0,30.0,15.0,2.0,10.0,10.0,7.0,0.0
+2013,Male,16,Right,179.2,26.0,178.4,1.0,Car,7.0,0.555,45.0,January,Summer,No,No,Pizza/Pasta,Water,Mathematics and statistics,8.0,4.0,Text,30.0,25.0,10.0,30.0,1.0,2.0,5.0,10.0
+2017,Female,17,Right,160.0,22.0,167.0,1.0,Car,15.0,0.487,55.0,December,Summer,No,No,Poultry,Water,English,8.0,4.0,Text,100.0,5.0,5.0,5.0,0.0,30.0,10.0,0.0
+2015,Male,17,Right,183.0,28.0,183.0,1.0,Car,5.0,0.399,61.0,September,Fall,Yes,No,Pizza/Pasta,Water,Mathematics and statistics,7.0,4.0,Text,15.0,21.0,25.0,10.0,0.0,21.0,14.0,7.0
+2014,Male,18,Right,165.1,28.0,163.0,1.0,Bus,9.0,0.352,29.0,February,Winter,Yes,No,Poultry,Juice,Music,6.0,4.0,App,25.0,10.0,8.0,5.0,15.0,30.0,8.0,0.0
+2017,Male,17,Right,186.0,28.0,179.0,2.0,Car,7.0,0.357,44.0,January,Winter,No,No,Meat,Water,Physical education,7.0,5.0,In person,50.0,6.0,5.0,18.0,1.0,3.0,4.0,5.0
+2010,Male,17,Both,171.0,26.0,184.0,1.0,Car,2.0,0.343,37.0,October,Fall,No,No,Meat,Sports drink,Science,7.0,2.0,Text,50.0,5.0,2.0,10.0,3.0,1.0,4.0,0.0
+2018,Male,18,Left,162.5,20.32,166.0,1.0,Bus,30.0,0.505,43.0,May,Spring,Yes,No,Seafood,Water,Art,7.0,3.0,Text,0.0,0.0,0.0,0.0,0.0,8.0,2.0,0.0
+2014,Female,17,Left,160.0,23.5,160.0,1.0,Car,7.0,0.461,43.0,August,Spring,No,Yes,Pizza/Pasta,Water,Music,5.0,5.0,Text,210.0,12.0,5.0,1.0,0.0,14.0,0.5,5.0
+2013,Female,17,Right,141.2,24.0,165.0,1.0,Car,10.0,0.328,39.0,March,Fall,No,No,Pizza/Pasta,Water,Mathematics and statistics,7.0,6.0,Text,400.0,5.0,10.0,10.0,0.0,5.0,6.0,8.0
+2018,Female,16,Right,161.0,24.0,161.0,3.0,Bus,15.0,0.529,30.0,May,Spring,Yes,No,No favorite,Water,Art,5.0,5.0,Text,6.0,3.0,23.0,16.0,0.0,16.0,3.0,6.0
+2010,Male,18,Left,176.0,27.0,186.0,1.0,Car,10.0,0.334,60.0,August,Summer,Yes,No,Poultry,Water,History,7.0,3.0,Text,100.0,50.0,10.0,7.0,1.5,50.0,1.0,14.0
+2017,Male,15,Left,170.0,25.0,167.0,1.0,Car,20.0,0.383,43.0,October,Winter,No,Yes,Pizza/Pasta,Water,Mathematics and statistics,7.0,3.0,App,30.0,2.0,20.0,2.0,20.0,20.0,5.0,0.0
+2011,Female,17,Right,161.0,25.0,166.0,1.0,Car,10.0,0.303,80.0,February,Fall,No,No,Salads,Water,Music,6.0,5.0,App,2.0,12.0,10.0,13.0,6.0,24.0,26.0,0.0
+2018,Male,16,Right,183.0,28.0,191.0,1.0,Car,8.0,0.457,43.0,May,Fall,No,No,Desserts,Water,Social studies,6.0,2.0,In person,25.0,0.0,25.0,0.0,2.0,50.0,20.0,0.0
+2015,Female,17,Right,188.0,28.0,188.0,1.0,Car,10.0,0.346,49.0,April,Winter,No,No,Meat,Water,Science,8.0,4.0,Text,10.0,4.0,5.0,10.0,0.0,7.0,14.0,0.0
+2010,Male,17,Right,175.0,24.5,173.0,1.0,Car,8.0,0.297,55.0,May,Fall,No,No,Breads/Sandwiches,Sports drink,Social studies,8.0,2.0,App,10.0,15.0,8.0,20.0,9.0,8.0,5.0,15.0
+2012,Female,17,Right,168.0,27.0,170.0,3.0,Car,12.0,0.367,34.0,May,Fall,No,No,Salads,Water,Mathematics and statistics,8.0,5.0,In person,7.0,5.0,10.0,15.0,0.0,10.0,4.0,4.0
+2018,Female,17,Right,168.0,25.0,160.0,1.0,Car,10.0,0.38,46.0,May,Fall,No,No,Pizza/Pasta,Water,Science,7.5,4.0,Text,350.0,8.0,10.0,9.0,0.0,3.0,3.0,6.0
+2013,Male,17,Right,183.0,26.7,160.0,1.0,Car,5.0,0.312,47.0,April,Summer,Yes,No,Meat,Soft drink (caffeinated),Mathematics and statistics,7.0,5.0,Text,150.0,15.0,2.0,15.0,5.0,10.0,14.0,22.0
+2013,Female,18,Right,170.0,28.0,167.0,1.0,Car,10.0,0.609,54.0,October,Fall,Yes,No,Pizza/Pasta,Milk,Art,7.0,5.0,Text,100.0,5.0,3.0,0.0,0.0,50.0,10.0,15.0
+2011,Male,17,Right,181.0,27.0,171.0,2.0,Car,10.0,0.312,60.0,January,Winter,Yes,No,Meat,Water,Physical education,7.0,4.0,Text,50.0,20.0,3.0,10.0,1.0,3.0,3.0,0.0
+2017,Male,17,Right,182.5,29.0,183.5,1.0,Car,5.0,0.305,41.0,June,Summer,No,No,Meat,Tea,Mathematics and statistics,6.5,2.0,App,10.0,8.0,10.0,16.0,3.0,15.0,20.0,22.0
+2014,Female,18,Right,164.0,23.0,140.0,1.0,Bus,20.0,0.435,50.0,December,Spring,No,No,Meat,Water,Music,7.0,7.0,Text,100.0,6.0,4.0,2.0,1.0,3.0,8.0,6.0
+2013,Male,17,Right,165.0,26.0,165.0,1.0,Car,10.0,0.5,39.0,December,Summer,Yes,No,Pizza/Pasta,Water,Physical education,8.0,3.0,Text,90.0,10.0,2.0,20.0,1.0,2.0,1.0,15.0
+2018,Female,17,Right,157.0,22.0,142.0,2.0,Car,10.0,0.5,35.0,March,Spring,Yes,No,Pizza/Pasta,Coffee,History,8.0,3.0,Text,100.0,5.0,4.0,3.0,15.0,20.0,6.0,0.0
+2018,Female,17,Right,183.0,24.8,184.0,1.0,Car,10.0,0.421,36.0,April,Spring,No,No,Breads/Sandwiches,Water,Science,7.5,4.0,Text,41.0,2.0,4.0,15.0,0.0,16.0,0.0,0.0
+2017,Male,16,Right,167.6,22.9,170.2,2.0,Car,13.0,0.201,40.0,March,Summer,Yes,No,Seafood,Milk,Music,7.0,4.0,App,13.0,8.0,40.0,5.0,5.0,24.0,0.0,0.0
+2012,Female,16,Left,157.4,19.5,123.0,1.0,Bus,25.0,0.446,42.0,October,Summer,No,No,Pizza/Pasta,Water,History,6.0,3.0,Phone,200.0,2.0,5.0,0.0,0.0,21.0,3.0,0.0
+2018,Female,17,Right,178.0,25.0,178.0,1.0,Car,7.0,0.335,48.0,June,Fall,Yes,No,Pizza/Pasta,Water,English,7.0,3.0,In person,40.0,10.0,5.0,11.0,3.0,8.0,8.0,0.0
+2013,Female,17,Right,163.8,23.2,171.5,1.0,Bus,12.0,0.328,41.0,September,Fall,No,No,Pizza/Pasta,Water,Science,7.0,3.0,In person,1.0,6.0,10.0,5.0,0.0,10.0,1.0,10.0
+2011,Female,17,Right,167.0,23.0,169.0,2.0,Car,15.0,0.297,40.0,August,Winter,No,No,Fruit,Water,Social studies,7.0,3.0,Text,50.0,20.0,8.0,15.0,0.0,6.0,3.0,5.0
+2017,Female,17,Left,165.1,23.5,165.0,2.0,Walk,12.0,0.342,34.0,February,Fall,Yes,Yes,Fruit,Coffee,History,6.0,25.0,Text,50.0,8.0,16.0,3.0,2.0,13.0,3.0,28.0
+2014,Male,17,Right,172.7,25.0,175.2,1.0,Car,13.0,0.421,49.0,April,Spring,Yes,No,Desserts,Water,Science,8.0,2.0,In person,10.0,10.0,4.0,15.0,3.0,10.0,5.0,0.0
+2013,Female,18,Right,153.5,21.7,166.9,1.0,Car,25.0,0.319,49.0,November,Fall,No,Yes,Pizza/Pasta,Water,English,7.0,5.0,Text,250.0,6.0,15.0,5.0,0.0,30.0,4.0,25.0
+2018,Male,17,Right,182.9,26.0,183.5,2.0,Bus,30.0,0.392,51.0,April,Spring,Yes,No,Meat,Water,Computers and technology,7.0,4.0,In person,5.0,5.0,14.0,2.0,3.0,40.0,4.0,20.0
+2013,Female,17,Right,165.0,24.0,165.0,1.0,Bus,15.0,0.464,54.0,August,Summer,No,No,Meat,Milk,Art,8.0,4.0,In person,100.0,5.0,7.0,14.0,1.0,4.0,7.0,9.0
+2012,Male,18,Left,170.0,27.0,170.0,1.0,Car,25.0,0.302,37.0,October,Winter,Yes,No,Desserts,Water,Science,6.0,3.0,Text,237.0,6.0,15.0,0.0,0.0,30.0,20.0,6.0
+2013,Male,16,Left,177.0,27.0,180.0,1.0,Bus,60.0,0.532,61.0,March,Summer,No,No,Meat,Tea,Science,6.0,2.0,In person,0.0,0.0,0.0,4.0,0.0,21.0,10.0,0.0
+2017,Male,17,Right,180.0,27.0,181.0,1.0,Car,20.0,0.476,43.0,March,Spring,No,No,Meat,Water,History,7.0,3.0,Text,35.0,5.0,15.0,0.0,1.0,20.0,0.0,9.0
+2013,Female,17,Right,169.5,26.0,172.0,2.0,Car,10.0,0.35,51.0,May,Summer,No,No,Rice/Noodle dishes,Water,Mathematics and statistics,6.0,3.0,Text,30.0,3.0,15.0,6.0,0.0,5.0,10.0,11.0
+2018,Female,17,Right,173.0,24.0,170.0,1.0,Car,5.0,0.37,49.0,February,Fall,Yes,No,Poultry,Coffee,Science,4.0,2.0,App,100.0,4.0,5.0,0.0,11.0,20.0,6.0,0.0
+2015,Female,17,Right,172.7,22.86,171.5,1.0,Car,7.0,0.378,51.0,January,Fall,Yes,Yes,Desserts,Water,Social studies,8.0,4.0,Text,350.0,7.0,20.0,2.0,0.0,8.0,10.0,6.0
+2019,Male,17,Right,170.0,25.0,173.0,1.0,Car,8.0,0.425,46.0,June,Summer,No,No,No favorite,Soft drink (non-caffeinated),Music,6.0,4.0,Text,5.0,10.0,3.0,2.0,3.0,10.0,0.0,0.0
+2012,Female,17,Right,182.0,26.0,173.0,1.0,Car,15.0,0.482,46.0,March,Spring,No,No,Pizza/Pasta,Water,Science,6.0,8.0,In person,6.0,10.0,15.0,12.0,0.0,3.0,3.0,0.0
+2014,Female,18,Right,162.5,25.3,164.0,1.0,Car,12.0,0.479,45.0,November,Fall,Yes,Yes,Fruit,Water,English,7.0,3.0,Text,20.0,20.0,10.0,15.0,0.0,15.0,5.0,20.0
+2017,Female,17,Right,177.8,25.0,183.0,1.0,Bus,7.0,0.506,48.0,February,Winter,No,No,Desserts,Soft drink (caffeinated),History,6.0,5.0,App,5.0,7.0,4.0,3.0,0.0,16.0,2.0,0.0
+2017,Male,18,Right,175.0,24.0,178.0,1.0,Car,10.0,0.342,45.0,August,Winter,No,No,Other,Water,Science,8.0,5.0,In person,50.0,10.0,10.0,15.0,4.0,2.0,3.0,9.0
+2018,Female,17,Left,157.4,22.0,137.1,2.0,Car,15.0,0.246,33.0,October,Winter,Yes,No,Meat,Water,Science,7.0,4.0,Text,65.0,5.0,13.0,12.0,2.0,35.0,3.0,14.0
+2015,Male,16,Right,171.0,27.0,180.0,1.0,Car,15.0,0.433,50.0,June,Winter,No,No,Breads/Sandwiches,Coffee,Mathematics and statistics,7.0,4.0,Text,20.0,6.0,12.0,2.0,15.0,80.0,0.0,0.0
+2014,Male,17,Right,165.0,24.0,168.0,2.0,Car,12.0,0.342,51.0,October,Summer,Yes,No,Meat,Water,Science,6.0,3.0,Text,15.0,0.0,24.0,6.0,2.0,25.0,4.0,0.0
+2013,Female,17,Left,163.0,23.0,161.0,1.0,Car,10.0,0.359,40.0,August,Spring,Yes,No,Pizza/Pasta,Water,Mathematics and statistics,7.0,3.0,In person,5.0,5.0,15.0,8.0,0.0,4.0,5.0,2.0
+2014,Female,16,Right,163.0,24.0,160.0,3.0,Car,20.0,0.368,37.0,January,Spring,Yes,No,Other,Water,History,5.5,3.0,App,10.0,10.0,17.0,3.0,1.0,20.0,1.0,0.0
+2017,Female,18,Right,156.0,22.0,153.0,2.0,Bus,45.0,0.282,52.0,May,Summer,No,Yes,Pizza/Pasta,Coffee,Art,5.0,4.0,In person,50.0,40.0,7.0,7.0,0.0,50.0,14.0,0.0
+2012,Male,17,Right,183.0,30.0,195.0,1.0,Car,35.0,0.354,39.0,September,Fall,Yes,No,Desserts,Soft drink (caffeinated),Science,6.0,5.0,Text,57.0,20.0,15.0,15.0,10.0,30.0,1.0,0.0
+2018,Female,17,Left,160.0,23.0,170.0,1.0,Car,3.0,0.505,44.0,August,Summer,Yes,No,Pizza/Pasta,Water,History,6.5,3.0,Text,867.0,25.0,5.0,2.0,1.0,10.0,14.0,15.0
+2010,Female,18,Right,168.0,24.0,168.0,1.0,Car,5.0,0.312,37.0,October,Summer,No,No,Meat,Water,Social studies,7.0,4.0,Text,20.0,8.0,8.0,12.0,0.0,10.0,5.0,1.0
+2013,Female,16,Left,150.0,20.0,143.5,2.0,Bus,7.0,0.485,49.0,January,Spring,Yes,No,Rice/Noodle dishes,Water,Art,6.0,4.0,In person,0.0,2.0,14.0,10.0,0.0,18.0,0.0,0.0
+2018,Male,18,Right,183.4,29.0,183.4,1.0,Car,20.0,0.417,51.0,September,Summer,No,No,Meat,Sports drink,History,8.0,4.0,Text,130.0,30.0,4.0,5.0,4.0,50.0,4.0,0.0
+2012,Male,16,Right,172.0,26.6,173.0,2.0,Car,10.0,0.414,48.0,October,Summer,Yes,No,Meat,Water,Science,6.0,3.0,Text,20.0,24.0,30.0,12.0,1.0,14.0,24.0,4.0
+2012,Female,17,Right,173.0,24.0,174.0,1.0,Car,10.0,0.39,42.0,November,Fall,No,No,Fruit,Water,Mathematics and statistics,7.5,5.0,In person,40.0,7.0,12.0,12.0,0.0,1.0,0.0,0.0
+2018,Female,17,Right,163.0,24.0,162.0,2.0,Car,7.0,0.4,33.0,July,Winter,No,No,Desserts,Tea,Science,8.0,2.0,App,0.0,0.0,30.0,0.0,3.0,60.0,3.0,0.0
+2015,Male,16,Right,175.0,25.0,170.0,3.0,Bus,5.0,0.367,34.0,October,Spring,No,No,Rice/Noodle dishes,Water,Other,5.0,4.0,In person,3.0,3.0,5.0,2.0,7.0,21.0,0.0,0.0
+2013,Male,17,Right,174.0,24.0,175.0,1.0,Car,15.0,0.312,40.0,November,Spring,Yes,No,Pizza/Pasta,Water,Science,8.0,3.0,Text,17.0,5.0,4.5,1.0,3.5,3.5,1.0,8.0
+2013,Female,17,Right,170.2,24.13,170.2,1.0,Car,8.0,0.52,51.0,November,Summer,No,No,Soups,Milk,Art,7.0,4.0,Text,350.0,24.0,4.0,4.0,0.0,0.0,2.0,6.0
+2016,Female,17,Right,163.0,23.0,163.0,2.0,Car,5.0,0.485,45.0,November,Fall,No,No,Other,Water,Science,7.0,4.0,Text,140.0,3.0,15.0,2.0,0.0,8.0,2.0,0.0
+2017,Female,17,Right,167.0,23.0,167.0,2.0,Car,11.0,0.427,48.0,October,Fall,No,No,Fruit,Water,Mathematics and statistics,7.0,3.0,Phone,50.0,5.0,5.0,13.0,3.0,7.0,5.0,20.0
+2012,Male,17,Right,187.0,29.0,197.0,1.0,Car,10.0,0.265,66.0,August,Summer,Yes,No,Meat,Water,Physical education,7.0,3.0,In person,75.0,6.0,0.0,12.0,3.0,2.0,35.0,10.0
+2017,Male,17,Right,172.7,24.13,167.6,1.0,Bus,10.0,0.367,56.0,May,Fall,No,No,Seafood,Water,History,6.0,3.0,Text,50.0,10.0,15.0,10.0,15.0,3.0,2.0,0.0
+2018,Male,16,Right,181.6,28.0,170.0,2.0,Bus,45.0,0.284,51.0,October,Fall,No,No,Meat,Water,Computers and technology,8.5,4.0,App,90.0,6.0,4.0,3.0,11.0,30.0,10.0,0.0
+2018,Male,17,Right,193.0,33.0,193.0,1.0,Car,10.0,0.593,63.0,May,Fall,Yes,No,Seafood,Water,Physical education,4.0,4.0,Phone,15.0,48.0,5.0,10.0,30.0,5.0,5.0,12.0
+2018,Female,17,Right,172.7,23.5,176.8,1.0,Car,14.0,0.307,42.0,May,Summer,Yes,No,Meat,Water,Mathematics and statistics,6.0,4.0,Text,150.0,15.0,30.0,25.0,0.0,30.0,5.0,0.0
+2017,Male,17,Right,172.7,30.48,184.0,2.0,Walk,20.0,0.44,29.0,December,Fall,No,No,Pizza/Pasta,Soft drink (caffeinated),History,7.0,5.0,In person,50.0,30.0,6.0,5.0,2.0,15.0,0.0,0.0
+2012,Male,16,Right,165.0,25.0,175.0,4.0,Bus,15.0,0.265,31.0,October,Winter,No,No,Poultry,Water,Science,6.0,3.0,In person,5.0,10.0,50.0,6.0,4.0,50.0,10.0,0.0
+2013,Female,17,Right,166.5,24.4,167.5,2.0,Car,17.0,0.36,44.0,October,Fall,Yes,No,Soups,Water,English,6.5,4.0,Text,75.0,9.0,6.0,7.0,0.0,28.0,7.0,15.0
+2014,Male,16,Right,182.9,25.0,175.4,3.0,Car,8.0,0.249,38.0,February,Spring,Yes,No,Meat,Water,Mathematics and statistics,6.5,3.0,Text,75.0,4.5,10.0,4.5,5.0,10.0,0.0,17.0
+2012,Female,17,Right,157.0,21.0,156.0,2.0,Car,15.0,0.39,32.0,September,Summer,No,No,Desserts,Water,Art,6.0,5.0,In person,40.0,3.0,35.0,14.0,0.0,7.0,3.0,0.0
+2016,Female,16,Right,165.0,23.0,162.0,1.0,Bus,30.0,0.261,29.0,June,Fall,Yes,No,Rice/Noodle dishes,Tea,Mathematics and statistics,6.0,2.0,Phone,100.0,10.0,11.0,10.0,0.0,30.0,0.0,10.0
+2015,Male,18,Left,174.0,26.0,173.0,3.0,Bus,14.0,0.27,45.0,March,Winter,Yes,No,Meat,Water,Science,5.0,5.0,Text,20.0,1.0,15.0,1.0,1.0,1.0,1.0,0.0
+2018,Male,15,Right,176.0,24.0,170.0,1.0,Car,6.0,0.342,38.0,September,Spring,No,No,Poultry,Water,Mathematics and statistics,7.5,5.0,App,20.0,3.0,6.0,15.0,10.0,5.0,4.0,0.0
+2012,Female,17,Right,173.0,25.0,172.0,1.0,Bus,15.0,0.387,44.0,July,Fall,No,No,No favorite,Water,History,7.0,5.0,Text,2.0,4.0,2.0,4.0,8.0,26.0,2.0,0.0
+2016,Male,17,Right,175.0,28.0,180.0,2.0,Car,15.0,0.45,28.0,June,Fall,Yes,No,No favorite,Milk,Mathematics and statistics,8.5,4.0,In person,0.0,5.0,5.0,5.0,1.0,8.0,2.0,0.0
+2016,Female,17,Right,165.0,22.0,165.0,1.0,Car,12.0,0.352,48.0,July,Summer,No,No,Pizza/Pasta,Water,Science,6.0,5.0,Text,5.0,10.0,10.0,12.0,0.0,12.0,8.0,0.0
+2014,Female,18,Right,175.3,24.0,175.0,1.0,Car,8.0,0.428,37.0,September,Spring,No,No,Seafood,Coffee,Mathematics and statistics,8.0,4.0,Text,40.0,3.0,7.5,8.0,0.0,2.0,5.0,3.0
+2018,Male,17,Right,180.7,27.8,181.6,2.0,Car,13.0,0.34,38.0,May,Summer,No,No,Rice/Noodle dishes,Water,History,5.0,3.0,Text,200.0,10.0,10.0,20.0,10.0,40.0,7.0,12.0
+2014,Female,18,Right,155.0,22.0,163.0,1.0,Car,10.0,0.409,42.0,February,Summer,Yes,No,Pizza/Pasta,Juice,History,7.0,4.0,Text,100.0,10.0,3.0,4.0,0.0,25.0,25.0,30.0
+2019,Male,16,Right,177.8,27.5,174.0,1.0,Bus,15.0,0.642,37.0,November,Fall,No,No,Meat,Soft drink (non-caffeinated),Science,8.0,6.0,In person,8.0,9.0,6.0,4.5,2.0,15.0,8.0,0.0
+2015,Male,17,Left,165.0,26.0,145.0,1.0,Bus,10.0,0.356,45.0,September,Fall,Yes,No,Meat,Soft drink (non-caffeinated),Computers and technology,6.0,4.0,Text,20.0,14.0,7.0,10.0,21.0,30.0,5.0,0.0
+2019,Female,17,Right,167.0,24.0,165.0,1.0,Car,10.0,0.659,34.0,April,Fall,Yes,No,Pizza/Pasta,Water,English,6.0,3.0,In person,10.0,50.0,25.0,20.0,10.0,35.0,1.0,20.0
+2018,Female,17,Right,158.0,23.0,165.0,1.0,Bus,25.0,0.3,61.0,August,Fall,No,No,Pizza/Pasta,Milk,Languages,6.0,4.0,App,50.0,8.0,15.0,20.0,0.0,28.0,7.0,0.0
+2011,Male,17,Right,178.0,26.0,185.0,2.0,Car,10.0,0.25,33.0,April,Summer,Yes,No,Rice/Noodle dishes,Water,History,6.0,3.0,App,1.0,3.0,15.0,2.0,2.0,12.0,5.0,11.0
+2013,Male,17,Right,196.0,30.0,193.0,1.0,Bus,13.0,0.3222,49.0,March,Spring,No,No,Other,Coffee,History,7.0,2.0,Phone,6.0,10.0,5.0,3.0,1.0,3.0,5.0,6.0
+2018,Male,17,Right,170.0,22.5,165.0,1.0,Car,15.0,0.427,38.0,October,Summer,No,No,Desserts,Water,Mathematics and statistics,8.0,5.0,Text,30.0,6.0,4.0,1.0,1.0,12.0,6.0,15.0
+2017,Male,17,Left,167.0,24.0,172.0,2.0,Car,5.0,0.652,33.0,December,Spring,No,No,Fruit,Water,Other,7.0,5.0,App,8.0,12.0,0.0,4.0,0.0,4.0,8.0,30.0
+2019,Male,17,Right,195.5,24.5,167.0,1.0,Bus,15.0,0.401,44.0,December,Winter,No,No,Poultry,Water,Computers and technology,6.0,3.0,Text,20.0,30.0,5.0,2.0,30.0,15.0,10.0,35.0
+2017,Female,18,Right,170.0,30.0,167.0,1.0,Car,5.0,0.803,68.0,October,Summer,Yes,No,Fruit,Water,Social studies,8.0,5.0,Text,0.0,10.0,2.0,1.0,0.0,4.0,0.0,30.0
+2012,Female,17,Right,160.0,23.0,160.0,1.0,Car,13.0,0.476,42.0,June,Summer,No,No,Pizza/Pasta,Water,Mathematics and statistics,7.0,6.0,Phone,70.0,10.0,10.0,10.0,0.0,7.0,12.0,0.0
+2014,Female,17,Right,160.0,19.02,158.0,1.0,Bus,15.0,0.446,49.0,June,Spring,No,No,Poultry,Water,History,6.0,4.0,Phone,150.0,4.0,4.0,6.0,1.0,8.0,4.0,0.0
+2017,Female,17,Both,164.0,24.0,162.0,1.0,Car,2.0,0.477,46.0,July,Summer,Yes,No,No favorite,Water,Art,10.0,4.0,App,3.0,1.0,12.0,10.0,0.0,0.0,0.0,20.0
+2016,Female,18,Right,163.0,19.2,162.0,2.0,Car,4.0,0.43,33.0,February,Fall,No,No,Pizza/Pasta,Water,Languages,6.5,4.0,Text,120.0,20.0,15.0,20.0,0.0,3.0,4.0,0.0
+2013,Male,16,Right,181.0,28.0,188.0,2.0,Car,4.0,0.312,35.0,March,Spring,Yes,No,Poultry,Water,Mathematics and statistics,7.0,5.0,Text,20.0,3.0,14.0,5.0,1.0,4.0,0.0,0.0
+2019,Male,17,Right,169.0,29.2,184.0,1.0,Car,12.0,0.452,49.0,September,Fall,No,No,Pizza/Pasta,Water,Social studies,7.0,3.0,Text,50.0,10.0,10.0,15.0,5.0,2.0,6.0,0.0
+2012,Male,17,Right,185.4,24.5,186.0,1.0,Car,10.0,0.278,39.0,May,Winter,No,No,Pizza/Pasta,Water,History,7.0,5.0,Text,132.0,40.0,11.0,6.0,0.0,12.0,5.0,0.0
+2013,Female,17,Right,161.3,22.5,161.3,2.0,Car,15.0,0.344,33.0,August,Fall,Yes,Yes,Pizza/Pasta,Water,Art,6.0,5.0,In person,20.0,12.0,10.0,21.0,0.0,2.5,10.0,0.0
+2010,Male,18,Right,183.0,27.0,189.0,1.0,Car,5.0,0.343,49.0,December,Spring,No,Yes,Pizza/Pasta,Juice,History,9.0,5.0,In person,250.0,50.0,7.0,15.0,15.0,15.0,15.0,0.0
+2014,Male,17,Right,181.0,28.0,180.0,2.0,Car,5.0,0.422,54.0,April,Summer,Yes,No,Fruit,Water,History,7.0,4.0,In person,100.0,10.0,5.0,10.0,2.0,7.0,5.0,0.0
+2018,Female,16,Right,161.0,22.0,165.0,1.0,Car,9.0,0.317,42.0,November,Fall,Yes,No,Rice/Noodle dishes,Water,Science,5.0,6.0,In person,30.0,10.0,40.0,0.0,0.0,10.0,0.0,25.0
+2010,Male,17,Both,175.0,27.0,182.0,1.0,Car,45.0,0.266,42.0,March,Summer,No,No,Meat,Sports drink,Science,5.0,3.0,Text,100.0,20.0,15.0,17.0,2.0,25.0,10.0,0.0
+2015,Male,17,Left,180.3,28.0,179.0,1.0,Car,15.0,0.401,54.0,June,Summer,No,No,Meat,Water,Physical education,7.0,3.0,Text,120.0,15.0,5.0,18.0,3.0,7.0,10.0,0.0
+2019,Female,17,Right,168.0,26.0,168.0,1.0,Car,6.0,0.401,51.0,October,Fall,Yes,No,Pizza/Pasta,Water,Art,8.5,4.0,In person,17.0,50.0,2.0,20.0,1.0,1.0,2.0,1.0
+2016,Male,17,Right,184.0,27.0,182.0,1.0,Car,15.0,0.286,38.0,May,Fall,No,No,Meat,Water,Mathematics and statistics,7.0,5.0,In person,10.0,10.0,5.0,5.0,1.0,2.0,0.0,15.0
+2018,Male,17,Right,181.0,26.0,182.0,1.0,Bus,15.0,0.4,46.0,September,Summer,No,No,Fruit,Water,Physical education,7.5,3.0,Text,60.0,7.0,5.0,3.0,3.0,10.0,5.0,0.0
+2016,Female,17,Right,163.0,23.0,171.0,3.0,Car,11.0,0.375,57.0,March,Fall,Yes,No,Desserts,Water,Social studies,6.5,4.0,Text,27.0,4.0,25.0,9.0,0.0,35.0,21.0,3.0
+2011,Female,18,Right,173.8,24.2,172.7,1.0,Car,15.0,0.422,29.0,October,Fall,No,Yes,No favorite,Juice,English,5.0,3.0,Text,75.0,8.0,21.0,1.0,5.0,12.0,8.0,0.0
+2010,Male,18,Right,171.0,26.0,177.0,1.0,Car,15.0,0.25,36.0,September,Summer,No,No,Meat,Milk,Physical education,7.0,4.0,Text,100.0,8.0,0.0,18.0,1.0,6.0,8.0,11.0
