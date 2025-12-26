@@ -1,0 +1,5 @@
+install.packages("AmesHousing")
+library(AmesHousing)
+data(ames_raw )
+#View(ames_raw )
+write.csv(x = ames_raw, file = "Ames_Housing_Raw.csv", row.names = FALSE)
