@@ -1,0 +1,50 @@
+---
+title: "R_Code_Used_in_Jamovi_Lab4"
+author: "Siddhartha Chilukuri"
+date: "2025-06-27"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R code to simulate a dice roll 1000 times
+
+```{r}
+# R code to simulate a dice roll 1000 times
+
+
+# Loading the dplyr library for data manipulation 
+library(dplyr) 
+# Setting a seed to make the results reproducible 
+set.seed(1442) 
+# Simulating a fair six-sided die roll for 1000 rolls 
+dice_roll <- function(n) {sample(1:6, size = n, replace = TRUE)} 
+sim_1000 <- data.frame(Roll = dice_roll(1000)) 
+print(head(sim_1000, 20))   # prints first 20 rows. 
+# Simulation summary table 
+summary_1000 <- table(sim_1000) 
+print(summary_1000) 
+```
+
+## R-code to simulate picking a card from a deck
+
+```{r}
+# R-code to simulate picking a card from a deck
+
+# Loading the dplyr library for data manipulation 
+library(dplyr) 
+# Setting a seed to make the results reproducible 
+set.seed(1442) 
+# Defining a vector of card values 
+card_values <- c("A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K") 
+# Simulating a fair pick from a single suit for 1000 trials 
+card_draw <- function(n) {sample(card_values, size = n, replace = TRUE)} 
+sim_1000 <- data.frame(Card_Draw = card_draw(1000)) 
+print(head(sim_1000, 20))   # prints first 20 rows. 
+# Simulation summary table 
+summary_1000 <- table(sim_1000) 
+print(summary_1000)
+```
+
