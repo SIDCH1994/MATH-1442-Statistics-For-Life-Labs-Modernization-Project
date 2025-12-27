@@ -1,0 +1,47 @@
+---
+title: "r_code_used_in_jamovi_lab5"
+author: "Siddhartha Chilukuri"
+date: "2025-07-15"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# R-code for calculating the mean and SD of a discrete random variable 
+
+```{r}
+# Defining the values of the random variable (x) and their probabilities (P(x)) 
+x <- c(0, 1, 2, 3, 4, 5, 6) 
+p_x <- c(0.20, 0.15, 0.10, 0.25, 0.05, 0.10, 0.15) 
+# Calculating the mean (expected value) using the formula: mu = sum(x * P(x)) 
+mean_x <- sum(x*p_x) 
+# Calculating the standard deviation using the formula: SD = sqrt(sum((x - mu)^2 * P(x))) 
+sd_x <- sqrt(sum(((x - mean_x)^2) * p_x)) 
+# Printing the calculated values in the Results panel 
+# function cat() acts similar to function print(). See Appendix for more information. 
+
+cat("Mean (mu):", mean_x, "\n") 
+cat("Standard Deviation (sigma):", sd_x, "\n") 
+```
+
+
+# R-Code Block for simulating the random binomial experiment 
+
+```{r}
+# Setting a seed for the reproductivity of output 
+set.seed(1442) 
+# Binomial simulation inputs 
+n_obs <- 10000    # simulation number 
+size <-5        # n  
+prob <- 0.65    # p
+# Next, we simulate the binomial data for 10,000 iterations using the rbinom() function. 
+# rbinom() stands for " random binomial distribution," which generates a binomial simulation. 
+binom_sim <- rbinom(n = n_obs, size = size, prob = prob) 
+print(head(binom_sim, 100))    # prints first 100 simulations 
+# Simulation summary table 
+summary_table <- table(binom_sim) 
+print(summary_table)
+```
+
