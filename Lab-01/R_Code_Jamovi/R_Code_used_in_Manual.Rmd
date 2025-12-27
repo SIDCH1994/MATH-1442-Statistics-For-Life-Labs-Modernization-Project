@@ -2,7 +2,7 @@
 title: "R_Code_used_in_Manual"
 author: "Siddhartha Chilukuri"
 date: "2025-11-16"
-output: pdf_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -17,7 +17,7 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```{r}
 library(readr)
-data <- read_csv("Lab-01/Data_Extraction/NHANES.csv")
+data <- read_csv("../Data_Cleaning/NHANES.csv")
 print(head(data))
 ```
 
