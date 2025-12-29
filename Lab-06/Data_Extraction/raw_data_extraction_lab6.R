@@ -1,0 +1,5 @@
+install.packages("openintro")
+library(openintro)
+data(mlb_teams)
+#View(mlb_teams)
+write.csv(x = mlb_teams, file = "MLB_Raw.csv", row.names = FALSE)
