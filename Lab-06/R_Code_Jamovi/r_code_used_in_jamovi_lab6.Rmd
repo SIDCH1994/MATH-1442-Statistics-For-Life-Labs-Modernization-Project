@@ -1,0 +1,81 @@
+---
+title: "r_code_used_in_jamovi_lab6"
+author: "Siddhartha Chilukuri"
+date: "2025-09-15"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Set the working directory in RStudio to "MATH-1442-Statistics-For-Life-Labs-Modernization-Project\Lab-06" using setwd() function in R console.
+
+### Loading the dataset
+```{r}
+library(readr)
+MLB <- read_csv("../Data_Cleaning/MLB.csv")
+print(head(MLB))
+```
+
+
+
+# R Code block for simulating the random normal experiment
+
+```{r}
+# Creating an empty dataframe as a dummy, Jamovi already has a empty dataframe named 'data' by default
+data <- data.frame(matrix(NA, nrow = 10000, ncol = 1))
+```
+
+
+
+```{r}
+# sample mean and SD values for the normal simulation 
+set.seed(1442) 
+
+mu <- 3.86         # mean of ER_AVG 
+sigma <- 0.739     # SD of ER_AVG 
+n <- 10000         # simulation number 
+
+# The rnorm() function generates 'n' random values from a normal distribution 
+simulated_data <- rnorm(n = n, mean = mu, sd = sigma) 
+data$Simulation <- simulated_data 
+
+# Sort the data in the ascending order 
+data$Sorted_Simulation <- sort(data$Simulation) 
+print(data) 
+```
+
+
+# R-Code block for simulating the Central Limit Theorem 
+
+```{r}
+# Loading the 'dplyr' and library for data manipulation. 
+library(dplyr) 
+
+# Set a seed for reproducibility. 
+set.seed(1442) 
+
+# Let's define discrete uniform distribution parameters for simulation. 
+# We are starting with a uniform population of integers from 1 to 10. 
+# The theoretical population mean for a uniform distribution is (a+b)/2, so (1+10)/2 = 5.5 
+# And the population standard deviation is sqrt(((b-a+1)^2 - 1) / 12), so sqrt(((10-1+1)^2-1)/12) = 2.872 
+num_samples <- 1000      # simulation count 
+
+# Generating 5 columns of uniform random data and store them directly in the data tab. 
+data$Sample1 <- sample(1:10, size = num_samples, replace = TRUE) 
+data$Sample2 <- sample(1:10, size = num_samples, replace = TRUE) 
+data$Sample3 <- sample(1:10, size = num_samples, replace = TRUE) 
+data$Sample4 <- sample(1:10, size = num_samples, replace = TRUE) 
+data$Sample5 <- sample(1:10, size = num_samples, replace = TRUE) 
+
+# Creating a new column to compute the row-wise mean of the 5 samples. 
+data$Sample_Mean <- rowMeans(data[, c("Sample1", "Sample2", "Sample3", "Sample4", "Sample5")]) 
+print(head(data,20))
+```
+
+
+
+
+
+
