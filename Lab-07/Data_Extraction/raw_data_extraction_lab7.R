@@ -1,0 +1,5 @@
+# install.packages("Lock5Data")
+library(Lock5Data)
+data(NutritionStudy)
+# View(NutritionStudy)
+write.csv(x = NutritionStudy, file = "Nutrition_Raw.csv", row.names = FALSE)
