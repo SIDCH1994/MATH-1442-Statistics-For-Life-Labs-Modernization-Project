@@ -1,0 +1,5 @@
+# install.packages("Lock5Data")
+library(Lock5Data)
+data(SleepStudy)
+# View(SleepStudy)
+write.csv(x = SleepStudy, file = "SStudy_Raw.csv", row.names = FALSE)
