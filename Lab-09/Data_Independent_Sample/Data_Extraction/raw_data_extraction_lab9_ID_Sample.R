@@ -1,0 +1,5 @@
+# install.packages("Lock5Data")
+library(Lock5Data)
+data(ICUAdmissions)
+# View(ICUAdmissions)
+write.csv(x = ICUAdmissions, file = "ICU_Admissions.csv", row.names = FALSE)
